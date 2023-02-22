@@ -1,0 +1,21 @@
+---
+title: "Susanne Veit"
+subtitle: "Head of DeZIM.lab"
+image: susanne.jpg
+toc: false
+sortpos: 1
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: https://www.dezim-institut.de/mitarbeitende/person-detail/susanne-veit/
+---
+
+:::{#person-profile}
+
+Susanne Veit is head of the DeZIM.lab and co-head of the cluster data-methods-monitoring at the DeZIM-Institute in Berlin, Germany. She is a social psychologist with interdisciplinary research experience in the field of migration and integration. Methodologically, Susanne has strong expertise in experimental research, including field experiments and online experiments with response time measurements, such as the implicit association test, or decisions under time pressure, such as the police dilemma task.
+
+:::

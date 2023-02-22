@@ -1,0 +1,165 @@
+---
+pagetitle: "Members | EqualStrength"
+toc: true
+listing:
+  - id: ucd
+    contents: "members/ucd/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 180px
+    type: grid
+    sort: sortpos
+    grid-columns: 3
+    grid-item-align: center
+  - id: uo
+    contents: "members/uo/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 180px
+    type: grid
+    sort: sortpos
+    grid-columns: 3
+    grid-item-align: center
+  - id: uva
+    contents: "members/uva/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 180px
+    type: grid
+    sort: sortpos
+    grid-columns: 3
+    grid-item-align: center
+  - id: uu
+    contents: "members/uu/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 180px
+    type: grid
+    sort: sortpos
+    grid-columns: 3
+    grid-item-align: center
+  - id: dezim
+    contents: "members/dezim/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 180px
+    type: grid
+    sort: sortpos
+    grid-columns: 3
+    grid-item-align: center
+  - id: vub
+    contents: "members/vub/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 180px
+    type: grid
+    sort: sortpos
+    grid-columns: 3
+    grid-item-align: center
+  - id: bi
+    contents: "members/bi/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 180px
+    type: grid
+    sort: sortpos
+    grid-columns: 3
+    grid-item-align: center
+  - id: uk
+    contents: "members/uk/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 180px
+    type: grid
+    sort: sortpos
+    grid-columns: 3
+    grid-item-align: center
+  - id: csic
+    contents: "members/csic/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 180px
+    type: grid
+    sort: sortpos
+    grid-columns: 3
+    grid-item-align: center
+  - id: unil
+    contents: "members/unil/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 180px
+    type: grid
+    sort: sortpos
+    grid-columns: 3
+    grid-item-align: center
+---
+
+## Researchers 
+
+### University College Dublin (Lead Institution)
+
+:::{#ucd}
+:::
+
+### University of Oxford
+
+:::{#uo}
+:::
+
+### Universiteit van Amsterdam
+
+:::{#uva}
+:::
+
+### Universiteit Utrecht
+
+:::{#uu}
+:::
+
+### DeZIM Institut
+
+:::{#dezim}
+:::
+
+### Vrije Universiteit Brussel
+
+:::{#vub}
+:::
+
+### Budapest Intézet
+
+:::{#bi}
+:::
+
+### Univerzita Karlova
+
+:::{#uk}
+:::
+
+### Consejo Superior de Investigaciones Científicas
+
+:::{#csic}
+:::
+
+### Université de Lausanne
+
+:::{#unil}
+:::
+
+
+## Institutions
+
+::: {#fig-institutions layout-ncol="4"}
+
+![University College Dublin](img/logo_ucd.png)
+
+![University of Oxford](img/logo_oxf.png)
+
+![Universiteit van Amsterdam](img/logo_uva.png)
+
+![Universiteit Utrecht](img/logo_uu.png)
+
+![DeZIM Institut](img/logo_dezim.png)
+
+![Vrije Universiteit Brussel](img/logo_vub.jpg)
+
+![Budapest Intézet](img/logo_bi.jpg)
+
+![Univerzita Karlova](img/logo_uk.png)
+
+![Consejo Superior de Investigaciones Científicas](img/logo_csic.png)
+
+![Université de Lausanne](img/logo_unil.png)
+
+1
+:::

@@ -1,0 +1,35 @@
+---
+title: "Mariña Fernández-Reino"
+subtitle: "WP5 and WP6 leader"
+image: marina.jpg
+toc: false
+sortpos: 1
+resources:
+  - "marinacv.pdf"
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: https://www.compas.ox.ac.uk/people/marina-fernandez-reino/
+    - icon: file-earmark-text
+      text: vitae
+      href: ./members/uo/marinacv.pdf
+    - icon: person-badge
+      text: orcid
+      href: https://orcid.org/0000-0003-3146-0336
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=QaTkGLYAAAAJ&hl=en
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/MFReino
+---
+
+:::{#person-profile}
+
+Mariña Fernandez-Reino is Senior Researcher at the Centre on Migration, Policy and Society (COMPAS) since 2018. Before moving to Oxford, Mariña was a postdoctoral researcher at the Horizon 2020 project Growth, Equal Opportunities, Migration and Markets, where she investigated the labour market discrimination of ethnic and migrant minorities in Spain. During her career, Mariña has worked on a variety of research topics related to migration and ethnic inequalities, including the discrimination of Latinos and Muslim minorities, public opinion towards migration, educational inequalities in Spain and the UK, relationships in migrant families, selectivity of migration inflows, and the labour market integration of migrant workers. She has published on journals such as European Sociological Review, Journal of Ethnic and Migration Studies, and Research in Social Stratification and Mobility, among others. 
+
+:::

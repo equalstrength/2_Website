@@ -1,0 +1,27 @@
+---
+title: "Bori Simonovits"
+subtitle: "Senior Researcher"
+image: bori.jpg
+toc: false
+sortpos: 1
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: https://rc2s2.elte.hu/en/researcher/borbala-simonovits-phd/
+    - icon: person-badge
+      text: orcid
+      href: https://orcid.org/0000-0002-5727-5043
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=wO7hpJYAAAAJ&hl=hu
+---
+
+:::{#person-profile}
+
+Bori Simonovits, (PhD in Sociology, AMA in Social Policy Analysis) is an Associate Professor at Eötvös Loránd University, Budapest Faculty of Education and Psychology. Her major research interests include the sharing economy, labour market, international migration, trust, discrimination and field experiments. Besides her teaching activity, she is taking part of international research in the areas of informal education and discrimination. Currently she is a member of the Hungarian research team of the so-called EXCIITE project (2022-2025), titled as “Enabling Extremely Creative, Inclusive, Inspiring Teachers for Europe”.She has published several papers in high quality international journals, most importantly in the Political Science Research and Methods (PSRM) the European Journal of Criminology (EJC) and the International Journal of Sociology (IJS).
+
+:::

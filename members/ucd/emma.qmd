@@ -1,0 +1,31 @@
+---
+title: "Emma Barron"
+subtitle: "Project Manager"
+image: emma.jpg
+toc: false
+sortpos: 2
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: "https://www.ucd.ie/geary/aboutus/people/"
+    - icon: file-earmark-text
+      text: vitae
+      href: ""
+    - icon: person-badge
+      text: orcid
+      href: ""
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: twitter
+      text: twitter
+      href: ""
+---
+
+:::{#person-profile}
+
+:::

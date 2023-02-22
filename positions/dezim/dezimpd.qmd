@@ -1,0 +1,76 @@
+---
+title: "Postdoctoral researcher"
+description: ""
+date: "2023-01-24"
+image: dezim.jpg
+categories:
+  - Berlin
+  - Postdoc
+  - Open
+---
+
+**Institution**: The German Center for Integration and Migration Research (DeZIM)  
+**Position**: Postdoc  
+**Deadline**: 19 February 2023 
+
+The German Center for Integration and Migration Research (DeZIM) e.V. in Berlin is searching for a (postdoctoral) researchers to be employed with 35,1 hours per week (90%) starting on **01.04.2023** in the DeZIM.lab.
+
+
+**Researcher/Postdoctoral Researcher (m/f/x/n. l.) for the Horizon Europe Project EQUALSTRENGTH**
+
+The DeZIM Institute was established in 2017 as a non-university research institute in the field of integration, migration, and conflict studies, as well as discrimination and racism. The DeZIM Institute receives funding from the German Federal Ministry for Family Affairs, Senior Citizens, Women and Youth (BMFSFJ) and seeks to combine excellent academic research with evidence-based policy advice.  
+
+The advertised third-party funding position is based at the DeZIM Institute in the DeZIM.lab of the Cluster Data-Methods- Monitoring. The DeZIM.lab focuses on experimental methods for researching questions in the field of migration and integration. The work in the project is supported by a student assistant and takes place in close cooperation with Dr Susanne Veit.
+
+[EQUALSTRENGTH](https://equalstrength.eu/opportunities.html) is an international project funded by the Horizon Europe Programme of the European Commission. The project is carried out in cooperation with ten international partners (Utrecht University, University College Dublin, Oxford University, University of Amsterdam, DeZIM Institute, Vrije Universiteit Brussels, The Budapest Institute, Charles University, Spanish National Research Council and University of Lausanne). It brings together researchers from different (social) science disciplines (especially social psychology, sociology, demography, economics, social policy).
+
+The aim of the EQUALSTRENGTH project is to investigate why and to what extent ethnic and religious minorities are exposed to discriminatory behavior and prejudiced attitudes in different areas of life (e.g., employment, housing, childcare). In addition, the project will examine whether and how this ongoing exposure to prejudice and discrimination accumulates at the intersection of stigmatized identities and across different domains of life.
+
+The researcher will be involved in various empirical quantitative work packages of the EQUALSTRENGTH project, in particular the implementation of field experiments on discrimination in Germany (employment, housing and childcare), the implementation and coordination of a survey experiment (cognitive test: Avoidance Task) on a DeZIM proprietary platform (MIND.set), the implementation of population questions, and the research of relevant statistical indicators for Germany.
+
+## Profile
+
+- Above-average academic university degree and doctorate (or in the final phase of the doctorate) in social sciences, social psychology or closely related disciplines
+
+- Strong quantitative methodological skills (experience in empirical quantitative research, ideally with large population surveys, survey experiments or correspondence tests, indirect measurement techniques, and/or multi-level analytical and/or cross-country comparative research)
+
+- Very good programming skills in STATA or R
+
+- Project management experience
+
+- Theoretical knowledge in the field of research on prejudice, discrimination, and racism is desirable
+
+- Interest in working collaboratively in an international and interdisciplinary team
+
+- Excellent oral and written communication skills in German and English
+
+- Independent working style, reliability, independent thinking and critical analytical skills as well as flexibility
+
+## Tasks
+
+- Independent research basing on the data resulting from the different work packages of the EQUALSTRENGTH project 
+
+- Development of an indirect test procedure on DeZIM platform (MIND.set) for the german sample and support of the project partners in other countries; 
+
+- Coordination of the survey on prejudices against vulnerable groups in different areas of life in Germany, participation in the conception of the cross-national survey 
+
+- Design and implementation of field experiments (correspondence tests) on ethnic discrimination in different areas of life in Germany, participation in the cross-national design
+
+- Support in project management
+
+- Intensive participation in scientific exchange between project partners and participation in meetings of project partners in other European countries
+
+- Publication of project results in scientific journals, presentation of research results at conferences
+
+- Research of relevant statistical indicators for Germany
+
+
+The position is **limited for 33 months**. Remuneration is in accordance with **pay group E13 TVöD (federal government)**. The place of employment is Berlin.
+
+DeZIM e.V. guarantees the professional equality of persons according to the Federal Equal Opportunity Act (BGleiG) and strives for an open and non-discriminatory work culture. We welcome applications from people of all nationalities, people of colour, black people and applicants with a history (forced) migration. Applications from women are expressly welcome. People with severe disabilities are given preference if they are equally qualified.
+
+Please apply with a cover letter, a CV with a list of publications and a one-page description of research experience and expertise with quantitative methods (in particular statistical techniques and software) as well as copies of academic certificates and send them in electronic form in a **single PDF file** to the following address **by February 19, 2023**: [bewerbung@dezim-institut.de](bewerbung@dezim-institut.de), citing the identification number **PR/02/23**.
+
+Applications can be submitted in German as well as English language. If you have any questions, please contact **Dr. Susanne Veit** ([bewerbung@dezim-institut.de](bewerbung@dezim-institut.de)).
+
+We are looking forward to receiving your applications.

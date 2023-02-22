@@ -1,0 +1,33 @@
+---
+title: "Pieter-Paul Verhaeghe"
+subtitle: "WP3 leader"
+image: pieterpaul.jpg
+toc: false
+sortpos: 1
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: https://pieterpaulver.wordpress.com/
+    - icon: file-earmark-text
+      text: vitae
+      href: https://pieterpaulver.wordpress.com/
+    - icon: person-badge
+      text: orcid
+      href: https://orcid.org/0000-0003-2582-6506
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=dTAChj4AAAAJ&hl=en
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/PieterPaulVer
+---
+
+:::{#person-profile}
+
+Pieter-Paul Verhaeghe is Assistant Professor of Sociology at the Vrije Universiteit Brussels (VUB) in the head capital of Europe. His research focuses on discrimination, social mobility, housing, migration and urban dynamics. As a researcher he loves to use field experiments, such as correspondence tests and mystery calling, to examine social inequalities and discrimination.
+
+:::

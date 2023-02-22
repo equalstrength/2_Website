@@ -1,0 +1,32 @@
+project:
+  type: website
+  resources:
+    - CNAME
+  output-dir: docs
+website:
+  title: "EqualStrength"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: consortium.qmd
+        text: Consortium
+      - href: publications.qmd
+        text: Publications
+      - href: opportunities.qmd
+        text: Opportunities
+      - href: contact.qmd
+        text: Contact
+  page-footer: ""
+  google-analytics: ""
+  site-url: https://equalstrength.eu
+  repo-url: ""
+  favicon: img/favicon.png
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

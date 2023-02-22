@@ -1,0 +1,17 @@
+---
+title: "Stephanie Steinmetz"
+subtitle: "Co-leader"
+image: stephanie.jpg
+toc: false
+sortpos: 1
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+---
+
+:::{#person-profile}
+
+Stephanie Steinmetz is an Associate Professor of Sociology at the University of Lausanne and Amsterdam where she is a member of the Life Course and Inequality Centre (LIVES) and FORS. Her research focuses on educational and labour market vulnerabilities from a cross-national and intersectional perspective. Currently, she is the PI of PROFEM (2022-2027) a ERC approved  project which focuses on female immigrant’s integration into host societies. Moreover, she is Secretary General of the International Social Survey Programme (ISSP), which collects comparative survey data in over 40 countries worldwide. Her work has been published in international journals such as the European Sociological Review, Work, Employment and Society, Social Forces, Comparative Social Research, the International Journal of Comparative Sociology and Social Politics.
+
+:::

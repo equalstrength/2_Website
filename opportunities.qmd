@@ -1,0 +1,10 @@
+---
+pagetitle: "Opportunities | EqualStrength"
+toc: false
+listing:
+  contents: "positions/*/*.qmd"
+  sort: "date desc"
+  categories: true
+type: default
+---
+

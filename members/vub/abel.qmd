@@ -1,0 +1,27 @@
+---
+title: "Abel Ghekiere"
+subtitle: "Post-doctoral researcher"
+image: abel.jpg
+toc: false
+sortpos: 2
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: person-badge
+      text: orcid
+      href: https://orcid.org/0000-0001-7945-8986
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=6HTvKdcAAAAJ&hl=en&oi=ao
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/AbelGhekiere
+---
+
+:::{#person-profile}
+
+Abel Ghekiere is a researcher in Sociology and Economics at the Vrije Universiteit Brussel and Ghent University. His research interests focus on the underlying attitudes and contextual factors of ethnic discrimination on the housing market with specific emphasis on the interdisciplinary characteristics of unequal treatment and discrimination. 
+
+:::

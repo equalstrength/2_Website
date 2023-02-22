@@ -1,0 +1,25 @@
+---
+title: "Flavia Fossati"
+subtitle: "Co-leader"
+image: flavia.jpg
+toc: false
+sortpos: 1
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: "https://www.unil.ch/idheap/en/home/menuinst/unitescompetences/inegalites-et-integration.html"
+    - icon: person-badge
+      text: orcid
+      href: "https://orcid.org/0000-0002-9218-5422"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.ch/citations?user=BmaNF20AAAAJ&hl=de&oi=ao"
+---
+
+:::{#person-profile}
+Flavia Fossati is Assistant Professor of Inequality and Integration at the Graduate Institute of Public Administration (IDHEAP) at the University of Lausanne. Her research focuses on the integration of immigrants in Western societies, on discrimination, and on public opinion regarding social policies (education, unemployment benefits, and other social measures) including in times of pandemics. She co-directed the research project [Welfare: Inclusion and Solidarity](https://nccr-onthemove.ch/projects/welfare-inclusion-and-solidarity/) in the Swiss National Centre of Competence in Research on Immigration and Mobility (NCCR-on the move). Her research has been published in scientific peer-reviewed journals such as: Social Science and Medicine, Socio-Economic Review, International Migration Review, Journal of Ethnic and Migration Studies, Research in Social Stratification and Mobility, Journal of Social Policy, Journal of European Social Policy. She is co-editor of [Debating Unemployment](https://doi.org/10.1017/9781108609340) (Cambridge University Press) and the Handbook of Swiss Politics (forthcoming with Oxford University Press)."
+:::

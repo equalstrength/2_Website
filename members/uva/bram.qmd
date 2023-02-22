@@ -1,0 +1,34 @@
+---
+title: "Bram Lancee"
+subtitle: ""
+image: bram.jpg
+toc: false
+sortpos: 2
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: "www.bramlancee.eu"
+    - icon: file-earmark-text
+      text: vitae
+      href: "https://www.bram lancee.eu"
+    - icon: person-badge
+      text: orcid
+      href: "https://orcid.org/0000-0002-9246-2039"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.nl/citations?user=WLYKP4sAAAAJ&hl=en"
+    - icon: twitter
+      text: twitter
+      href: "https://twitter.com/BramLancee"
+    - icon: mastodon
+      text: mastodon
+      href: "https://sciences.social/@BramLancee"
+---
+
+:::{#person-profile}
+Bram Lancee is Associate Professor of Sociology at the University of Amsterdam. Lancee is the Principal Investigator in the Vidi project [‘Bringing the context back in](https://www.bramlancee.eu/bringing-the-context-back-in/): How national institutions and organizations shape ethnic discrimination in the labour market’ funded by The Netherlands Organization for Scientific Research (NWO), and Principal Investigator of the [GEMM Study](https://www.bramlancee.eu/gemm-study/), a cross-national harmonised field experiment on hiring discrimination, funded by the European Commission. His research interests include, discrimination, ethnic minorities and the labour market, prejudice, social capital and experimental research methods. Lancee’s work has been published in journals such as Social Forces, European Sociological Review, International Migration Review, Journal of Ethnic and Migration Studies, and Social Science Research. For more information, see [www.bramlancee.eu](https://www.bramlancee.eu).
+:::

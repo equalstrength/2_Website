@@ -1,0 +1,36 @@
+---
+title: "Mathew Creighton"
+subtitle: "Principal Investigator"
+image: mathew.jpg
+toc: false
+sortpos: 1
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: https://sites.google.com/site/mathewjcreighton/home
+    - icon: file-earmark-text
+      text: vitae
+      href: https://sites.google.com/site/mathewjcreighton/cv
+    - icon: person-badge
+      text: orcid
+      href: https://orcid.org/0000-0002-1596-6049
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=U70sGHUAAAAJ&hl=en
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/CreightonMathew
+---
+
+:::{#person-profile}
+
+I graduated from the University of Pennsylvania in 2009 with a joint PhD in sociology and demography.  Before arriving at the [School of Sociology at University College Dublin](https://people.ucd.ie/mathew.creighton) in 2016, I worked as a postdoctoral researcher in the [Office of Population Research](https://pop.princeton.edu) at Princeton University, a lecturer in the Department of Political and Social Science at the [Universitat Pompeu Fabra](https://www.upf.edu/web/demosoc/) and an assistant professor in the Sociology Department at the [University of Massachusetts, Boston](https://www.umb.edu/academics/cla/sociology). 
+
+
+I am an unapologetic, serial collaborator who is dedicated to interdisciplinary perspectives.  Reflective of my rejection of any bright lines between disciplines in social science is a pursuit of peer-reviewed publication in sociology, demography, political science, criminology, public health, history and urban studies.  My complete CV can be found [here](https://sites.google.com/site/mathewjcreighton/cv).
+
+:::

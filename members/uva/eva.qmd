@@ -1,0 +1,36 @@
+---
+title: "Eva Zschirnt"
+subtitle: "WP4 leader"
+image: eva.jpg
+toc: false
+sortpos: 1
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: https://www.uva.nl/en/profile/z/s/e.zschirnt/e.zschirnt.html
+    - icon: file-earmark-text
+      text: vitae
+      href: https://www.uva.nl/en/profile/z/s/e.zschirnt/e.zschirnt.html
+    - icon: person-badge
+      text: orcid
+      href: https://orcid.org/0000-0002-8918-4146
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=XGcu4noAAAAJ&hl=en&oi=ao
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/eva_zschirnt
+    - icon: mastodon
+      text: mastodon
+      href: https://sciences.social/@eva_zschirnt
+---
+
+:::{#person-profile}
+
+Eva Zschirnt is Assistant Professor at the University of Amsterdam. She obtained her PhD at the University of Neuchâtel (Switzerland) and was awarded a two-year Max Weber Fellowship at the European University Institute in Florence (Italy). Before joining the University of Amsterdam, she was postdoc at the University of Wuppertal at the Chair of Migration and Family Sociology. Her research interests focus on social inequalities in the context of migration and integration, the position of migrants and members of minority groups in the labour market, and discrimination in the market place.
+
+:::

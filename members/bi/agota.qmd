@@ -1,0 +1,30 @@
+---
+title: "Ágota Scharle"
+subtitle: "Senior Researcher"
+image: agota.jpg
+toc: false
+sortpos: 2
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: http://budapestinstitute.eu/index.php/about_us/datasheet/scharle_agota/en
+    - icon: file-earmark-text
+      text: vitae
+      href: http://budapestinstitute.eu/index.php/about_us/datasheet/scharle_agota/en
+    - icon: person-badge
+      text: orcid
+      href: https://orcid.org/0000-0003-4838-8764
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=d_S5WPcAAAAJ&hl=en
+---
+
+:::{#person-profile}
+
+Ágota Scharle is founding partner and senior researcher at the Budapest Institute for Policy Analysis (an independent think tank based in Budapest, Hungary). Her recent work has focused on the impact evaluation and design of social policy and active labour market policies for disadvantaged jobseekers, discrimination of the Roma, and the political economy of welfare reforms. She has led projects commissioned by DG Employment of the European Commission, the OECD and the ILO.  Previously she was Head of research in the Hungarian Finance Ministry and analyst at the National Employment Office (1994-1996). She earned a PhD in Economics at the University of Oxford in 2001. She also studied Political Science at Warwick University in 1993, and was a Chevening Fellow at the University of Sussex studying European Political Economy in 2006.
+
+:::

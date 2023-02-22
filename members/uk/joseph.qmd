@@ -1,0 +1,30 @@
+---
+title: "Josef Montag"
+subtitle: ""
+image: joseph.jpg
+toc: false
+sortpos: 1
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: https://josefmontag.github.io/
+    - icon: file-earmark-text
+      text: vitae
+      href: https://owncloud.cesnet.cz/index.php/s/Q4Az4uixWt2jMi9
+    - icon: person-badge
+      text: orcid
+      href: https://orcid.org/0000-0001-5175-2083
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=FXzvTnkAAAAJ&hl=cs
+---
+
+:::{#person-profile}
+
+I am an Assistant Professor at the Department of Economics, Faculty of Law, Charles University. My main research areas cover the fields of Law and Economics, Economics of Crime, Labor Economics. Most of my research is empirical and experimental, whenever possible.
+
+:::

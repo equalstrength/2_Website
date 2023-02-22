@@ -1,0 +1,34 @@
+---
+title: "Valentina Di Stasio"
+subtitle: "WP2 leader"
+image: valentina.jpg
+toc: false
+sortpos: 1
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: "https://www.uu.nl/medewerkers/VDiStasio"
+    - icon: file-earmark-text
+      text: vitae
+      href: "https://www.uu.nl/medewerkers/VDiStasio/CV"
+    - icon: person-badge
+      text: orcid
+      href: "https://orcid.org/0000-0002-9559-1776"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?user=9c-aWKgAAAAJ&hl=en"
+    - icon: twitter
+      text: twitter
+      href: "https://twitter.com/distasio_val"
+    - icon: mastodon
+      text: mastodon
+      href: "https://sciences.social/@distasio_val"
+---
+
+:::{#person-profile}
+I am Associate Professor at the Department of Interdisciplinary Social Science of Utrecht University, where I am affiliated to ERCOMER, the European Research Centre on Migration and Ethnic Relations. I am also a Visiting Fellow of the European University Institute (EUI) in Florence. My research focuses on ethnic and religious discrimination at the workplace, combining perspectives from sociology, social psychology, socio-legal and organizational studies. Currently, I am also the Principal Investigator of the project TARGETS (ERC Starting Grant, 2022-2027), a cross-national, interdisciplinary and multi-method analysis of discrimination attributions and coping strategies. Before joining Utrecht University, I was a Postdoctoral Fellow at the University of Oxford and at the WZB Berlin Social Science Centre. In 2014, I obtained my doctoral degree from the University of Amsterdam. My research has been published in peer-review journals such as: Annual Review of Sociology, British Journal of Sociology, Sociology, Social Forces, European Sociological Review, Journal of Ethnic and Migration Studies, Research in Social Stratification and Mobility, Social Psychology Quarterly.
+:::
