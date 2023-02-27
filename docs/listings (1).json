@@ -1,0 +1,37 @@
+[
+  {
+    "listing": "/publications.html",
+    "items": []
+  },
+  {
+    "listing": "/consortium.html",
+    "items": [
+      "/members/ucd/mathew.html",
+      "/members/ucd/emma.html",
+      "/members/uo/marina.html",
+      "/members/uva/eva.html",
+      "/members/uva/bram.html",
+      "/members/uu/valentina.html",
+      "/members/dezim/susanne.html",
+      "/members/vub/pieterpaul.html",
+      "/members/vub/abel.html",
+      "/members/bi/bori.html",
+      "/members/bi/agota.html",
+      "/members/uk/joseph.html",
+      "/members/unil/flavia.html",
+      "/members/unil/stephanie.html"
+    ]
+  },
+  {
+    "listing": "/opportunities.html",
+    "items": [
+      "/positions/oxf/oxf.html",
+      "/positions/dezim/dezimpd.html",
+      "/positions/unil/unil.html",
+      "/positions/uk/cupd.html",
+      "/positions/uu/uupostdoc.html",
+      "/positions/uva/uvaphd.html",
+      "/positions/ucd/ucdpd.html"
+    ]
+  }
+]
