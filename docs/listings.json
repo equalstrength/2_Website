@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/publications.html",
+    "items": []
+  },
+  {
     "listing": "/consortium.html",
     "items": [
       "/members/ucd/mathew.html",
@@ -19,12 +23,9 @@
     ]
   },
   {
-    "listing": "/publications.html",
-    "items": []
-  },
-  {
     "listing": "/opportunities.html",
     "items": [
+      "/positions/oxf/oxf.html",
       "/positions/dezim/dezimpd.html",
       "/positions/unil/unil.html",
       "/positions/uk/cupd.html",
