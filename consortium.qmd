@@ -5,82 +5,82 @@ listing:
   - id: ucd
     contents: "members/ucd/*.qmd"
     fields: [image, title, subtitle]
-    image-height: 180px
+    image-height: 140px
     type: grid
     sort: sortpos
-    grid-columns: 3
+    grid-columns: 4
     grid-item-align: center
   - id: uo
     contents: "members/uo/*.qmd"
     fields: [image, title, subtitle]
-    image-height: 180px
+    image-height: 140px
     type: grid
     sort: sortpos
-    grid-columns: 3
+    grid-columns: 4
     grid-item-align: center
   - id: uva
     contents: "members/uva/*.qmd"
     fields: [image, title, subtitle]
-    image-height: 180px
+    image-height: 140px
     type: grid
     sort: sortpos
-    grid-columns: 3
+    grid-columns: 4
     grid-item-align: center
   - id: uu
     contents: "members/uu/*.qmd"
     fields: [image, title, subtitle]
-    image-height: 180px
+    image-height: 140px
     type: grid
     sort: sortpos
-    grid-columns: 3
+    grid-columns: 4
     grid-item-align: center
   - id: dezim
     contents: "members/dezim/*.qmd"
     fields: [image, title, subtitle]
-    image-height: 180px
+    image-height: 140px
     type: grid
     sort: sortpos
-    grid-columns: 3
+    grid-columns: 4
     grid-item-align: center
   - id: vub
     contents: "members/vub/*.qmd"
     fields: [image, title, subtitle]
-    image-height: 180px
+    image-height: 140px
     type: grid
     sort: sortpos
-    grid-columns: 3
+    grid-columns: 4
     grid-item-align: center
   - id: bi
     contents: "members/bi/*.qmd"
     fields: [image, title, subtitle]
-    image-height: 180px
+    image-height: 140px
     type: grid
     sort: sortpos
-    grid-columns: 3
+    grid-columns: 4
     grid-item-align: center
   - id: uk
     contents: "members/uk/*.qmd"
     fields: [image, title, subtitle]
-    image-height: 180px
+    image-height: 140px
     type: grid
     sort: sortpos
-    grid-columns: 3
+    grid-columns: 4
     grid-item-align: center
   - id: csic
     contents: "members/csic/*.qmd"
     fields: [image, title, subtitle]
-    image-height: 180px
+    image-height: 140px
     type: grid
     sort: sortpos
-    grid-columns: 3
+    grid-columns: 4
     grid-item-align: center
   - id: unil
     contents: "members/unil/*.qmd"
     fields: [image, title, subtitle]
-    image-height: 180px
+    image-height: 140px
     type: grid
     sort: sortpos
-    grid-columns: 3
+    grid-columns: 4
     grid-item-align: center
 ---
 

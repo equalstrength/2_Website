@@ -9,8 +9,7 @@ from: markdown+emoji
 
   **EqualStrength** is a [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) project funded by the European Union. This research project investigates cumulative and structural forms of discrimination, outgroup prejudice and hate crimes against ethnic, racial and religious minorities. **EqualStrength** is led by a consortium of ten European research institutions. You can find more information about the project [here](about.html).
 
-  
-![Image: 'We are all connected' by Nicola Anthony at Luan Gallery, Ireland](img/connected.jpg){fig-alt="Photo of the art installation 'We are all connected' by Nicola Anthony. Photo taken at the Luan Gallery, in Athlone, Ireland."}
+![Image: Wordcloud of the EqualStrength project proposal ([code here](img/eqs_cloud.r)) ](img/eqs_cloud.svg){fig-alt="Illustration showing the most frequent terms from the EqualStrength project and images of doors superimposed"}
 
 
 ::: {.callout-note}

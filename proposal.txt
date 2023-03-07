@@ -1,0 +1,1417 @@
+
+Ref Ares(2022)3131930   21/04/2022
+ Proposal template Part B: technical description
+FROM ONE CLOSED DOOR TO ANOTHER: CUMULATIVE DISCRIMINATION AND PREJUDICE AGAINST MARGINALISED GROUPS IN EUROPE
+  List of participants
+1 (Coordinator) 2
+3
+4
+5
+6 7 8 9 10
+Contents
+University College Dublin (UCD) University of Oxford (UOXF) Universiteit van Amsterdam (UvA) Universiteit Utrecht (UU)
+Vrije Universiteit Brussel (VUB)
+Budapest Intézet (BI)
+Univerzita Karlova (CUNI)
+Consejo Superior de Investigaciones Científicas (CSIC) Université de Lausanne (UNIL)
+Ireland
+United Kingdom The Netherlands The Netherlands Germany
+Belgium Hungary Czechia Spain Switzerland
+  Participant No *
+   Participant organisation name
+   Country
+              Deutsche Zentrum für Integrations  und
+ Migrationsforschung (DeZIM)
+                   1 EXCELLENCE  2
+11 OBJECTIVES AND AMBITION  2
+111 Family perspective4 112 Cumulation of risks and disadvantages 4 113 Multi actor approach: gatekeepers, policies, society at large, vulnerable groups 5
+12 DESCRIPTION OF EQUALSTRENGTH SPECIFIC OBJECTIVES  5 121 Measuring cumulative discrimination across life domains (WP2)5 122 Examining the policy and institutional contexts of discrimination and prejudice (WP3)6 123 Capturing outgroup prejudices across life domains (WP4)7 124 Perceptions of racism and discrimination: minorities’ policy preferences and coping strategies across domains (WP 5)8
+13 METHODOLOGY 9
+131 Concept and methodology9 132 Case selection9 133 Primary data collected in EqualStrength9 134 Previous initiatives  13 135 Interdisciplinary approach13 136 Gender dimension14 137 Open science  14 138 Data management and management of other research outputs  15 139 Ethics (technical annex)16
+2 IMPACT  18
+21 PROJECT’S PATHWAYS TOWARDS IMPACT  18
+211 EqualStrength’s contributions to meet expected outcomes set out in topic HORIZON CL2 2022  TRANSFORMATIONS 01 19 212 Wider scientific and societal impacts of EqualStrength21 213 Potential barriers to societal impact  22
+22 MEASURES TO MAXIMISE IMPACT   DISSEMINATION, EXPLOITATION AND COMMUNICATION  22
+221 Dissemination and exploitation plan  22
+PART B   1
+
+
+222 Communication activities23 223 Exploitation of results and intellectual property  23 224 Continued impact of EqualStrength after month 36  24
+23 SUMMARY 25
+3 QUALITY AND EFFICIENCY OF THE IMPLEMENTATION  27
+31 WORK PLAN AND RESOURCES 27
+TABLES FOR SECTION 31 28
+Table 31a List of work packages28 Table 31b Work package description  29 Table 31c List of Deliverables  36 Table 31d List of milestones 37 Table 31e Critical risks for implementation  37 Table 31f Summary of staff effort  38 Table 31g ‘Subcontracting costs’ items39 Table 31h ‘Purchase costs’ items39
+32 CAPACITY OF PARTICIPANTS AND CONSORTIUM AS A WHOLE 39 REFERENCES 40
+1 Excellence
+Ethnic, racial and religious minorities experience discriminatory behaviour and prejudicial attitudes in multiple life domains, which accumulates across the life course This continuous exposure perpetuates minorities’ subordinate position across generations For societies that strive to be inclusive and guarantee equal opportunities for all their members, this structural and cumulative pattern of disadvantage is a major concern The unequal treatment of people or groups based on their ethnicity, race and/or religion is not only problematic from a normative perspective; it also has a negative impact on economic growth, social cohesion, and public health From the perspective of victims, discrimination and prejudice  whether blatant or subtle, conscious or unconscious  are damaging for their wellbeing Moreover, the recent Black Lives Matter Movement that illuminated the pervasive impact of institutional racism, offer a powerful reminder that ethnic and religious inequalities are not only harmful, but also deeply rooted in contemporary societies
+The main contribution of EqualStrength is to investigate cumulative and structural forms of discrimination, outgroup prejudice and hate crimes against ethnic, racial and religious minorities from a cross setting and intersectional perspective In doing so, we not only focus on direct and indirect forms of discrimination against minority groups in different life domains, but also on minorities’ coping strategies when facing subtler forms of bias and unequal treatment in daily interactions, also known as microaggressions Importantly, we put the family at the forefront of our analysis, improving on previous studies that have focused on discrimination against an individual person in a single instance, without taking the broader context into consideration We focus on the gendered, racialized and socio economic elements of outgroup hostility and analyse how they cumulate and intersect across key life domains Moreover, we study whether and how the structural disadvantage and systemic discrimination that minority families experience in their lives vary according to local policies, and institutional and political contexts
+11 Objectives and ambition
+EqualStrength takes as a point of departure that ethnic, racial and religious inequalities are reciprocally related across multiple settings, mutually reinforcing, and exacerbating over time (Blank, 2005) The interwoven character of differential treatment by ethnicity, race or religion has been coined by Reskin (2012, p 19) as “über (or meta) discrimination” Previous research, however, has mainly examined direct discrimination1 in a single setting at a specific moment in time and often from an individual (and typically male) perspective Already twenty five years ago, Bonilla Silva’s (1997) seminal ‘Rethinking racism’ asserted that racism is systemic and structural Yet, mainstream approaches in sociology, economics and social psychology still predominantly equate racism to hostile attitudes or beliefs operating at the individual level (Sidanius & Pratto, 1999), largely neglecting the racialized structures that maintain and reproduce power imbalances between groups While recent contributions emphasised
+1 Direct discrimination is defined as a situation “where one person is treated less favourably than another [] in a comparable situation on grounds of racial or ethnic origin”; indirect discrimination as “a situation in which an apparently neutral provision, criterion or practice would put persons of a racial or ethnic origin at a particular disadvantage compared with other persons, unless that provision, criterion or practice is objectively justified by a legitimate aim and the means of achieving that aim are appropriate and necessary” (Article 22, Council Directive 2000/43/EC of 29 June 2000)
+ PART B   2
+
+
+subtler forms of prejudice, such as symbolic and modern racism, (eg Dovidio et al, 2017; Esses, 2021), research that takes a multi domain perspective to explain outgroup hostility is scant As a result, structural racism as experienced by victims is underestimated, and our understanding of its institutionalised patterning across life domains remains limited
+EqualStrength adopts a cross setting perspective on cumulative disadvantage to study structural and institutional discrimination and outgroup hostility across key life domains, including employment, housing, access to public services such as childcare, and leisure settings In parallel, we study how people understand and cope with episodes of discrimination and microaggressions in their everyday lives Our approach builds on scholarly work that studies perceptions of discrimination (Barreto & Ellemers, 2015), but overlooked the psychological consequences of continuous exposure to systemic discrimination and microaggressions Understanding the victims’ experiences of discrimination based on race, ethnicity or religion across life domains is also crucial from an intersectional perspective, as episodes of unequal treatment take very different forms depending on people’s gender, sexual orientation, or social background (Harnois & Ifatunji, 2011; Pedulla, 2014, 2018)
+Concretely, we seek to address five interrelated research objectives:
+1 To capture structural forms of ethnic and racial discrimination in the domains of employment, housing and
+access to childcare We focus on the most stigmatised ethnic minorities in the European context: Muslims,
+Roma and black immigrants from sub Saharan Africa
+2 To examine the systemic nature of prejudice and hate crime across life domains (with a particular focus on
+anti migrant, anti Muslim, anti Black and anti Roma attitudes)
+3 To analyse the role of policy and institutional factors in minority groups’ exposure to structural
+discrimination, prejudice and hate crime, which allows evidence based policy recommendations to mitigate
+discrimination in childcare, housing and employment
+4 To document the lived experiences of minority groups (with a particular focus on Muslim, Roma and black
+minorities) and the coping strategies they adopt to deal with everyday discrimination and microaggressions
+5 To analyse the experiences and consequences of discrimination and prejudice from an intersectional perspective, focusing on how race, ethnicity and religion intersect with gender and socioeconomic position
+to produce unequal outcomes
+The conceptual framework of EqualStrength focuses on ethnic minorities and examines their exposure to
+systematic discrimination and structural racism across multiple settings We look especially at highly marginalised groups: Muslim, black and Roma minorities In differentiating between settings, we study access to childcare services, employment opportunities and housing as three interrelated life domains Because discrimination and hostility in one domain may, directly or indirectly, change outcomes and opportunities in other domains, a multi domain approach can reveal a pattern of cumulative disadvantage and social exclusion over time and across generations, explained in greater detail below Four work packages (WP2   WP5) address the structural inequalities that characterise the working, learning and living conditions of minority families by analysing gatekeepers (eg employers, landlords and real estate agents, childcare administrators), the society at large, and the perceptions of vulnerable minority groups across different institutional contexts The conceptual approach of the project is visualised in figure 1
+Figure 1 The conceptual approach of EqualStrength
+ PART B   3
+
+
+111 Family perspective
+The first key contribution is the shift of focus from individuals at risk to vulnerable minority families To fully grasp the accumulated and structural nature of outgroup prejudice and discrimination, EqualStrength adopts a gendered family perspective This is necessary to analyse how discrimination and racism are both experienced by men and women individually as well as accumulating and intersecting at the family level The structural and systemic nature of discrimination means that its impact is also transmitted across generations, affecting family dynamics and relations (Gaston, 2021; Bryant Davis et al, 2017) Furthermore, one of the main insights of life course research is that key domains of life, such as work and access to services (eg childcare), are not only interrelated, but also nested within families (Kohli, 2007) Previous studies on racism and discrimination, however, have primarily, if not exclusively, focused on the disadvantage and unequal treatment experienced by single individuals While scholars acknowledge that access to economic, social and cultural resources is heavily shaped by family background and varies by gender (Heath, Rothon & Kilpi, 2008), the outcomes under study are often centred on the individual Our focus on families recognizes that minority families face barriers in multiple domains of life: for example, hostility directed towards a family member could have spillover effects on intra family dynamics in terms of relationship quality and exposure to stressors (Gaston, 2021; Thoits, 2010)
+In addition, we analyse how interlinked patterns of discrimination, prejudice and hate crimes vary according to institutional and policy factors at both local and national levels We underline the importance of family policies, as they play a crucial role in countering the heavily gendered integration policies that have historically placed migrant families on the edge of societal participation (Pincus, 1996) More recent research on the role of parental leave and child support policies in reducing gender gaps in employment focuses exclusively on majority populations (Cooke, 2010; Notten et al, 2017) It is, however, crucial to acknowledge the importance of the family situation and exposure to ethnic discrimination in domains that affect labour market activation, eg access to childcare services and housing For example, ethnic discrimination in access to childcare facilities can heavily constrain parents’ options to combine family obligations and dual earner employment, most often relegating women to the role of stay at home mothers To the extent that employers are less willing to grant part time and other family friendly arrangements to members of ethnic minorities, discrimination in one setting (ie access to childcare) can compound discrimination in another setting (ie the labour market)
+112 Cumulation of risks and disadvantages
+The second key contribution of EqualStrength is the theoretical and empirical shift from setting specific discrimination against single subordinate groups to cumulative, structural and intersectional disadvantage, which occurs simultaneously in different life domains, across the life course, and at the intersection of group identities This is important for three reasons First, even relatively small effects in one domain can cumulate to large effects over time, precisely because exposure to racism and discrimination at one decision point and in one area might increase the risk of future discrimination at another decision point in a different area (Blank, 2005; Hardy III et al, 2020) For example, the discrimination literature has almost exclusively focused on single settings, most notably the labour market (Zschirnt & Ruedin, 2016) Similarly, a structural perspective on negativity towards outgroups, taking the target as a focal point, although acknowledged, is seldom empirically examined Yet, taking the concept of structural racism at heart means acknowledging that lawful and seemingly uncontroversial policies and practices can exacerbate inequalities between groups even in the absence of direct discrimination (whether intentional or not) and hostility
+Second, exposure to hostility and discrimination in one life domain affects the behaviour and victims’ perceptions in other domains, or over time For example, social psychologists have shown that people who have experienced past episodes of discrimination are more likely to display a vigilance bias and interpret events as discriminatory in the future (Barreto & Ellemers, 2015) People can also interpret their experiences of discrimination as motivated by different factors, such as their ethnicity or religious affiliation These contributions point to the need for research that takes a multi domain perspective, which addresses the accumulation of disadvantage across life domains However, such a link is currently lacking EqualStrength applies a systemic perspective to the analysis of attitudes (prejudice/racism), perceptions and coping strategies (lived experiences), behaviour (discrimination) and policies
+Third, from an intersectional perspective (Crenshaw, 1989; Purdie Vaughns & Eibach, 2008), various types of social group memberships interact with one another and produce complex patterns of advantage and disadvantage, resulting in a cumulation of discrimination across intersecting statuses An intersectional perspective is enriching for research on outgroup prejudice which, so far, has paid little attention to interconnected social identities, assuming instead that the psychology of prejudice is the same across subcategories of targets Finally, our focus on multiple settings allows us to examine the domains within which prototypical as well as non prototypical group members are likely to experience discrimination and hostility As such, EqualStrength offers theoretical refinement to
+PART B   4
+
+
+intersectionality theory, which has long debated whether minority women suffer double (or triple) burdens for their multiple stigmatised identities, or, in contrast, may benefit from their intersectional invisibility (Navarrete et al, 2010; Purdie Vaughn & Eibach, 2008) Having multiple stigmatised statuses may exacerbate the risk of experiencing discrimination or even attenuate it, as shown by Pedulla (2014) for the intersection of race and sexual orientation and by Bonnet et al (2016) for the intersection of ethnicity and socioeconomic status EqualStrength examines the extent to which disadvantage is additive, multiplicative or characterised by a more complex and nuanced type of intersectionality
+113 Multi actor approach: gatekeepers, policies, society at large, vulnerable groups
+The third key contribution of our project is the multi actor and multi level perspective, an integrated approach simultaneously considering multiple actors (ie gatekeepers; ethnic, racial and religious minorities; majority groups) and levels of analysis (ie the micro level of individual decisions; the meso level of organisations, neighbourhoods, rental agencies and childcare facilities; the macro level of countries and nation wide institutions) An integrated approach allows us to study the contextual conditions that exacerbate or mitigate patterns of cumulative disadvantage This knowledge is necessary to devise effective policy interventions Specifically, WP2 examines the behaviour of gatekeepers (ie, employers, real estate agents, landlords, and preschool administrators  in preventing access to employment, housing and childcare services, respectively WP3 analyses policy and institutional contexts at both the national, the municipality and the neighbourhood level A multilevel perspective on cumulative discrimination can identify effective policies across domains; it can also reveal whether policies that are seemingly neutral in one domain have unintended effects in another domain WP4 shifts the attention to the society at large and examines prejudicial attitudes towards specific outgroups Finally, WP5 zooms in on the lived experiences of vulnerable minority groups and their coping strategies when dealing with systemic discrimination and structural racism WP5 also examines support for different types of policies aimed at reducing discrimination among minority populations
+12 Description of EqualStrength specific objectives
+121 Measuring cumulative discrimination across life domains (WP2)
+One of the main objectives of EqualStrength is to conceptualize and empirically measure cumulative discrimination across settings To achieve this, we address five limitations of previous research on discrimination First, correspondence studies have conceptualized and measured ethnic discrimination in a single setting at a specific moment in time  eg, being denied a job interview (Di Stasio et al, 2021;
+Veit & Thijssen, 2021), an apartment viewing (Auspurg et al, 2019;
+Verhaeghe & De Coninck, 2022), or a service (Bourabain et al, 2020;
+Olsen et al, 2020) because of one’s ethnic, racial or religious background
+Unfortunately, this approach does not include the interwoven and
+accumulated character of ‘meta discrimination’ (Reskin, 2012, p 19), in
+which discrimination is reciprocally related across multiple settings,
+mutually reinforcing and accumulating over time (Blank, 2005)
+EqualStrength addresses this shortcoming by conceptualizing and
+measuring the institutionalized patterning of discrimination across three
+life domains: access to housing, employment and childcare These three
+life domains are profoundly interlinked Without a proper job, finding a decent house or vacant childcare spot can be very challenging In turn, living in a disadvantaged neighbourhood can restrict people’s employment opportunities, in terms of a lack of spatial proximity to jobs and pervasive address based discrimination (eg, Bunel et al, 2016) Without childcare, it is more difficult to look for a job or to work full time, particularly for women To the best of our knowledge, discrimination in the access to childcare has rarely been studied, though research indicates that public administrators discriminate against minorities in nurseries and primary schools (Bourabain et al, 2020; Olsen et al, 2020)
+A second limitation in previous research is the use of an individual perspective when considering victims of discrimination Existing studies typically examine discrimination against individual candidates, but neglect that individuals are often embedded in families As explained above, a family approach provides a more complete understanding of the interlinked nature of meta discrimination As the first study of its kind, WP2 examines discrimination in housing, hiring and childcare with a particular attention to the cumulation of disadvantage within families For example, by considering access to childcare services as a pre condition for (women’s) entry into employment, the family level perspective reveals how one domain of disadvantage (ie, childcare) can spill over into another (ie, work)
+Third, although correspondence tests have been widely used during the past decades, there are still many minority groups and contexts which have yet to be examined (Verhaeghe, 2022) While opinion surveys suggest that
+ PART B   5
+
+
+discrimination against the Roma is widespread in most countries with a sizeable Roma minority (European Commission 2019), systematic evidence on the incidence of discrimination in the labour market or other domains is scarce The only field experiment on the labour market focusing on Roma to date is Bartoš et al (2016), who report an 18 percentage point lower call back rate for Roma applicants compared to white majority applicants in the Czech Republic There is also some evidence from field experiments that Roma face discrimination in accessing services: in the private rental market (Bartoš et al, 2016), government services (Mikula & Montag, 2022), and childcare or other municipal services (Simonovits et al, 2021) EqualStrength compares groups that are highly stigmatised in the nine European countries of the consortium Previous studies found discrimination is most severe for ethnic, racial and religious groups who are more culturally distant from the majority population (Koopmans et al, 2019) or originating from less socio economically developed regions (Thijssen et al, 2021) Muslims, in particular, are among the most stigmatized groups in Europe, where Islam functions as a bright symbolic boundary (Creighton et al, 2022; Fleischmann, 2022) Muslims are also more often treated with suspicion in everyday encounters and less likely to receive help from strangers (Bourabain & Verhaeghe, 2019) Additionally, though references to race are rare in the European context, research consistently finds ethnic discrimination is most severe for black minorities, especially groups originating from Sub Saharan Africa, in both private settings and the public space (Fibbi et al, 2021; Thissen et al, 2021) In addition to anti Roma discrimination, we study anti Muslim and anti black discrimination
+Fourth, there is a remarkable lack of field experimental studies in East  and Central Europe (Verhaeghe 2022) For example, recent meta analyses only mention two Czech studies about labour market discrimination (Lippens et al 2021; Quillian & Midtbøen 2021) and two studies  one Czech and one Slovakian  about rental discrimination (Flage 2018) This causes a fundamental West  and South European bias in the knowledge about discrimination in Europe Furthermore, with only a few notable exceptions (see, for example, the GEMM study: Lancee, 2021), most studies on ethnic discrimination study one country at a time Although there is some evidence that hiring discrimination varies substantially across countries (Quillian et al, 2019), comparative evidence of variation in other forms of discrimination across different national institutional settings is largely absent This is a non trivial gap in our understandingThe levels and patterns of discrimination might be substantially different depending on the national context Understanding these differences allows scholars to understand the role of contextual factors in perpetuating ethnic disctrimination Therefore, WP2 examines ethnic meta discrimination in nine countries, including two East  European (Czech Republic and Hungary)
+Finally, our knowledge of trends across time in ethnic discrimination remains limited While recent meta  analyses have documented a steady decline in ethnic discrimination in housing and lending markets (Auspurg et al, 2019; Quillian et al, 2020), others have found no signs of progress in the domain of employment (Heath & Di Stasio, 2019; Quillian et al, 2017; Zschirnt & Ruedin, 2016) On the one hand, this is surprising given the strong commitment to organizational diversity and legislative efforts, at the national and European level, to prevent workplace discrimination On the other hand, no firm conclusions can be drawn from meta analysis that can only superficially control for differences in experimental protocols and designs across studies and national contexts EqualStrength offers a clear pathway forward
+122 Examining the policy and institutional contexts of discrimination and prejudice (WP3)
+Previous research on discrimination has focused on empirical links between results from correspondence tests and various theoretical mechanisms that could explain observed variation in discriminatory behaviour (Gaddis 2019) One strand in the literature focuses on the extent to which economic mechanisms drive patterns of discrimination, such as taste based discrimination (Becker 1971) and statistical discrimination (Arrow 1971) Another strand focusses on social psychological constructs to explain discrimination, such as explicit or implicit attitudes or threat perceptions (Ziegert & Hanges 2005) EqualStrength examines a third and often overlooked strand in the literature that, asks a key question: To what extent can contextual factors explain varying levels of ethnic
+discrimination? Whereas the economic and social psychological theories draw conclusions from the perspective of individual actors (eg what are ethnic ‘distastes’ or attitudes of employers or landlords and which information do they use), recent work has sought to bring forward theoretical perspective that accounts for contextual factors and institutions (Lancee 2021; Reskin 2003; Tomaskovic Devey & Avent Holt 2017) The ‘new institutionalist’ theory emphasises that the behaviour of social actors is shaped by national and local contexts (Brinton & Nee 1998) Thus, to understand discriminatory behaviour, the context in which decisions are made is crucial
+This insight is not new: for example, an extensive literature documents the organisational determinants of workplace inequality (Baron & Bielby, 1980; Tomaskovic Devey & Avent Holt, 2017) Likewise, the sociological
+ PART B   6
+
+
+literature on institutional discrimination has drawn attention to the structural component of discrimination and the reproduction of stark inequalities even in the absence of intentionally discriminatory behaviour (Bonilla Silva, 1997; Golash Boza, 2016; Reskin, 2012; Small & r, 2020) Though from different theoretical angles, all these contributions point to the need for research that links discriminatory outcomes to the context of employment Because most correspondence studies are carried out within a specific context  one city, region or country  most scholars lack the data to investigate these institutionalist or structuralist explanations, which require the simultaneous implementation of fieldwork in multiple contexts Furthermore, national policy in one domain could have spill over effects across other life domains because of the intersectional and cumulative effects of discrimination (Blank, 2005) It is therefore crucial to include multiple measures of discrimination, across different domains, when comparing policy contexts and their impact on discrimination
+An institutionalist approach reflects a growing awareness that racism and discrimination should be tackled from a multi level perspective This so called ‘local turn’ in integration studies has drawn attention to the importance of addressing the challenges of migrant incorporation at the local level (Zapata Barrero et al 2017) Municipalities differ in why and how they govern migrant incorporation and their relationships with other public, private and social actors (horizontal dimension) and higher governmental levels (vertical dimension) Therefore, WP3 examines how levels of “meta discrimination” are shaped by institutional and policy factors at both the local and national level We focus on the interrelated and cumulative forms of discrimination that we identify in WP2 (child care, housing and hiring), which we study in the nine countries involved in the EqualStrenght project As such WP3 contributes to the field in how discrimination levels differ according to (1) existing policies and legislation of anti discrimination, inclusiveness and multiculturalism and (2) national welfare state regimes and their gendered family policies A better understanding of these contextual policy and institutional factors also facilitates evidence based policy recommendations to tackle discrimination in child care, housing, and hiring
+123 Capturing outgroup prejudices across life domains (WP4)
+EqualStrength studies the majority’s prejudicial attitudes against ethnic, racial and religious outgroups across key domains of life with a combination of secondary and primary data sources Individuals tend to evaluate their own group favourably compared to outgroups (ingroup bias) or even treat outgroups outright unfavourably or hostile (Aboud, 2003; Riek et al, 2006) Indeed, a plethora of research has documented persistently negative attitudes towards minorities, most notably towards individuals of ethnic, racial and religious minorities (Creighton and Jamal, 2015) or refugees (Hager & Veit, 2019; Bansak et al, 2016), and this finding is robust across countries and over time (Ceobanu and Escandell 2010; Storm et al 2017)
+However, research on outgroup prejudice is hampered by the same conceptual limitations as many discrimination studies Previous research has extensively studied prejudices in general (Gallego & Pardos Prado, 2014; Ceobanu & Escandell, 2010) or in specific life domains, such as the workplace (Pecoraro & Ruedin, 2016), neighbourhoods (Maxwell, 2019; van Heerden & Ruedin, 2019), healthcare (Pinillos Franco & Kawachi, 2021), or intermarriage (Rodríguez García et al, 2016; Tolsma et al, 2008) Yet, prejudice in these domains is rarely combined and a structural perspective on negativity towards outgroups, although acknowledged, is seldomly empirically examined
+This lack of empirical research is surprising, as several theoretical approaches emphasise that, to understand and ultimately reduce outgroup derogation, a holistic and interrelated perspective is needed
+ewise, a fundamental principle in life course theory is that changes in human life evolve over a
+007) Therefore,
+EqualStrength focuses on outgroup prejudice from a family perspective and how it is interlinked across life domains By doing so, we take the target of prejudice as a point of departure, and study how hostility manifests itself differently in key domains of life Furthermore, following structural racism and intersectionality theories, we study potential spillover effects of outgroup hostility from one life domain (eg, the workplace) into other domains (eg housing, childcare) A key consideration is the different manifestations of outgroup hostility towards targets with intersecting social group memberships (eg ethnic minority status and sexual orientation), in particular those with non  prototypical statuses (eg homosexual Muslim men)
+In addition, research that empirically links outgroup attitudes to discriminatory behaviour is scant (Esses 2021,
+  of intersectionality posits that the multidimensionality of the discrimination experience cannot be captured by looking
+For example, the theory
+  only at gender or race as singular grounds for discrimination, (Crenshaw, 1989) Similarly, theories of structural racism emphasise the interaction of multiple institutions in an ongoing process sustaining racialized outcomes (Powell
+  2007) Lik
+lifetime
+ and, as such, are the result of an interrelated series of events occurring in multiple domains (Kohli 2
+PART B   7
+
+
+) There are only few studies that combine behavioural
+124 Perceptions of racism and discrimination: minorities’ policy preferences and coping strategies across domains (WP 5)
+EqualStrength places minorities’ lived experiences, perceptions, and preferences at the forefront of the analysis In doing so, the project will increase scholarly knowledge about (1) the extent to which minority individuals perceive themselves or their group as targets of discriminatory behaviours and micro  and macroaggressions in relevant social domains, and the consequences of those perceptions on their wellbeing; (2) minorities’ preferred coping strategies to discriminatory situations
+in different social settings; (3) minorities’ policy preferences to reduce ethnic and racial inequalities that are the product of cumulative discrimination; and (4) the impact of the Covid 19 pandemic on perceptions of discrimination To study these three aspects, the project relies on both secondary and primary data sources
+As pointed out by Small and r (2020), the study of minorities’ perceived discrimination is not a ‘poor analytical substitute’ for that of perpetrated discrimination  as measured, for example, in field experiments  but it should be a complement to it Studying perceptions and experiences of discrimination and micro/macroaggressions is therefore crucial, as these experiences impact minorities’ behaviour as well as their physical and mental health (Nadal et al, 2014) Research shows that the perception of being discriminated against and, importantly, the reasons for it differ between ethnic, racial and religious groups (Auer & Ruedin 2019) Contemporary forms of discrimination and racism are generally more covert than in the past, which means that individuals differ in the extent to which they recognise them as such and/or can identify the reason for them (Quillian 2006) Moreover, the extent to which people feel discriminated against varies according to individual characteristics (Auer & Ruedin, 2019), contextual factors (McGinnity & Gijsberts, 2016) and across societal domains where discrimination may occur (Maxwell, 2015) For example, highly educated migrants report more societal discrimination in surveys than migrants of the same ethnicity with lower levels of education, a phenomenon known as the ‘integration paradox’ (Schaeffer, 2019; Steinmann, 2018)
+EqualStrength investigates minorities’ perceptions of discrimination levels in multiple life domains, including the labour and housing markets, and health care, among others In doing so, we examine whether perceptions vary across ethnic, religious, racial and gender lines, as well as across countries, and the reasons for those variations In addition, we examine how these perceptions impact minorities’ subjective wellbeing (Lewis et al, 2015), and whether those impacts are similar across minorities in different national contexts We rely on cross  national and national survey data such as, eg, the Second EU Minorities and Discrimination Survey, to measure minorities’ perceptions The linked field experimental data on discrimination across settings tell us how perceptions relate to ‘objective’ measures of cumulative discrimination Likewise, we investigate the role of national and local institutional contexts in those perceptions, in order to examine whether discriminatory behaviours and racism are more likely to be recognized as such in areas with historically strong anti discrimination policies (Ziller, 2014)
+EqualStrength also investigates variations across minorities in attributions, ie their interpretations of a range of situations as discriminatory or micro aggressions, particularly when they are subtle and ambiguous; and in their coping strategies or reactions to those situations (Lamont and Mizrachi, 2011) We examine these aspects with a vignette study (or factorial survey), where minorities are asked to evaluate the degree to which they consider a range of situations involving members of the majority and minority groups as unfair or discriminatory; the reason for that evaluation; and the extent to which they self identify with the reaction of the minority character(s) depicted in the vignette
+EqualStrength pays attention to variations across minorities in their support for race or ethnic targeted policies aimed at reducing (ethnic and racial) inequalities and discrimination in specific domains such as the political sphere, the labour market, or education Research about the extent to which different minorities uniformly support policies that target race or ethnicity is scarcer in Europe than in the US (Alesina et al, 2021; Scarborough et al, 2019)
+  Gaddis 2018
+outcomes, such as correspondence tests, with
+ attitudinal data on prejudices (for exceptions, see Carlsson & Rooth 2012; Carlsson & Erikson 2017; Verhaeghe & De Coninck 2022) Previous research has shown that intended behaviour does not necessarily translate into observed behaviour We thus know little about the extent to which attitudes result in ‘real’ life’ discriminatory behaviour or threatening behaviour towards minorities (eg in the form of hate crimes); knowledge that takes a structural and cumulative perspective is particularly limited To offer a way forward, EqualStrength studies how structural prejudice across life domains is related with ‘meta discrimination’ as measured in the linked field experiments Put another
+ way, EqualStrength examines to which extent outgroup prejudice corresponds with discriminatory behaviour
+ PART B   8
+
+
+and, even in the US, most studies focus on White Black gaps in levels of policy support (Crosby et al, 2006) Finally, we explore how minorities evaluate the impact of the Covid 19 pandemic and the economic crisis that has unfolded in terms of group level and personally experienced discrimination and hate crime Western countries saw increases in the number of hate crime attacks during 2020 21, especially against Asian migrants (Wang et al, 2021) There is also evidence that discrimination against minorities increases during periods of economic downturn (Johnston & Lordan, 2016); it is therefore possible that Muslim, Black and Roma minorities also perceive to be more
+frequently the target of discriminatory and prejudicial behaviours since the pandemic
+13 Methodology
+131 Concept and methodology
+Our research design combines strong analytical rigour and conceptual precision with a multi actor, multi  domain and multi level focus We take up the gauntlet of empirically examining structural and intersectional patterns of discrimination, prejudice and hate crime, going beyond the individual level and single domain focus of the existing literature Specifically, our conceptualization and operationalization acknowledge that individuals are exposed to discrimination and forms of outgroup prejudice in multiple domains of life, often simultaneously Next to overt forms of discrimination and hostility, members of ethnic minorities routinely experience subtler forms of discrimination or are indirectly discriminated by the disparate impact of ostensibly neutral policies or regulations Through an innovative and methodologically sophisticated research program, relying on cross national and cross  setting field experiments, population based survey experiments and high quality, cross national survey data (described below in more detail), we accomplish two goals: (1) develop foundational insight into on how racism, xenophobia and discrimination are institutionalised and made structural in different European societies; and (2) map how institutional discrimination and structural racism impact the wellbeing, living conditions, and policy preferences of people with minority and migrant background across a variety of settings
+132 Case selection
+We opt for a diverse case study selection and examine exposure to structural racism and discrimination in countries that vary substantially in their levels of immigration, presence of Muslims and Roma in the population, ethnic gaps in unemployment rates, strength of anti discrimination legislation and policies, social measures to reconcile work and care, institutional regulation of childcare facilities and affordable housing (Ireland, UK, Belgium, the Netherlands, Germany, Switzerland, Spain, Czechia and Hungary) This range of contexts increases external validity while, at the same time, allowing us to examine whether patterns of systemic discrimination are associated with economic or institutional factors For example, inter ethnic contact theory (Pettigrew 1998) and integrated threat theory (Stephan & Stephan, 1996) lead to opposite expectations regarding the relationship between the size of the foreign born population and levels of outgroup prejudice From an institutional perspective, barriers in access to employment might be more detrimental in countries where public childcare services and affordable housing are less developed, and an adequate standard of living is only possible through active labour market participation
+133 Primary data collected in EqualStrength
+Linked field experiments on cumulative discrimination:
+For WP2, we gather the first cross national and cross setting dataset on cumulative discrimination Data will be collected through an innovative set of linked field experiments in all nine EqualStrength countries Field experiments are regarded as the ‘golden standard’ of measuring discriminatory behaviour as they combine high external validity and experimental control (Gaddis 2018; Verhaeghe 2022) through randomization in naturally occurring contexts (Baldassarri & Abascal, 2017) The random assignment allows researchers to isolate the independent effect of each variable of interest (eg, ethnic background, parental status, gender) on the outcome When a stigmatized group is systematically treated less favourably than the non stigmatized group, those cases are interpreted as clear and convincing evidence of discrimination Table 13a shows a preliminary research design, which will be refined after desk research and consultation among the national teams to ensure cross national comparability and, at the same time, ecological validity within each country
+Table 13a Preliminary design for the linked field experiments
+  Labour market
+   Housing
+   Childcare
+ Majority/minority
+Male/female
+Parental status (child/unspecified)
+Majority/minority
+Male/female
+Parental status (child/unspecified)
+Majority/minority Male/female
+N days/hours a week
+         PART B   9
+
+
+Part time request (yes/no) Dual earner/single earner family Address (low SES/neutral
+neighbourhood)
+We conceptualize and empirically analyse the cumulative nature of discrimination in four ways First, we examine cumulative discrimination across three settings: the labour market, housing market and childcare services sector We compare majority groups (ie born in the target countries with domestic sounding names) with ethnic, religious and racial minorities We chose to focus on some of the most vulnerable groups in society: Muslim minorities (in all countries except for Hungary and Czechia), Roma (only in Hungary, Czechia, and Spain, three countries where Roma are among the most stigmatized groups), and Sub Saharan Africans (in selected countries) Minority background will be signalled using foreign sounding names or common Roma names In those cases where names cannot clearly signal ethnicity (eg Roma names in Spain), additional treatments may be used We maximise direct comparability of groups across countries whenever possible The inclusion of both Muslims and sub Saharan Africans allows us to compare, within and across countries, levels of anti Muslim and anti black discrimination At the same time, the focus on the Roma group in three of the participating countries (Czechia, Hungary, Spain) provides us with the first comparative evidence on anti Roma discrimination, and its contextual variation
+Second, we analyse the cumulation of risks across social identities, ie intersectional discrimination To this end, we employ a factorial and unpaired design (Di Stasio & Lancee, 2020), which allows us to randomly vary a number of characteristics, including ethnicity, gender and parental status, at once With this design, we can analyse how discrimination cumulates for individuals that carry multiple, intersecting identities as well as the risks associated with these intersections (eg minority women with a child) Next to additive and multiplicative effects  the typical focus in the study of cumulative risks  we also consider complex interaction effects such as “muted effects” (Pedulla, 2018): in such cases, a stigmatised trait (eg ethnic minority status) may mitigate rather than amplify the effect of another stigmatised identity (eg social status, proxied by the sociodemographic profile of the neighbourhood) These muted effects are likely to manifest when stereotypes are highly congruent across social positions, like belonging to a minority group and having a low socioeconomic status
+Third, we identify indirect discrimination by linking the design of the setting specific field experiments To capture indirect discrimination, we vary in each setting specific field experiment characteristics that are dependent on the outcome reached by a family in another setting For example, by looking at the effect of earning status in the housing field experiment and the effect of ethnic minority status in the labour market experiment, we can test whether selection on earning status (that is, an apparently neutral practice) can disproportionately disadvantage persons of racial or ethnic origin This would be the case if real estate agents prefer dual earners but ethnic minorities face barriers in access to employment
+Fourth, we calculate cumulative discrimination over time This is possible by merging the newly collected data on discrimination in the labour market with field experimental data collected between 2016 and 2017 by some of the team members as part of the GEMM project (Lancee et al 2021) The GEMM data refer to discrimination against Turkish minorities in the Netherlands and Germany, Moroccans in Spain, and Pakistani in the UK As we focus on many of the same groups in WP2, we can merge the two dataset and assess change in patterns of discrimination over time In addition, the EqualStrength fieldwork will take place in 2023 24, seven years after the GEMM data and after the Covid pandemic, which has disproportionately affected the labour market opportunities of ethnic minorities (Auer, 2022)
+Cross national online survey with conjoint experiment and avoidance task:
+We collect data with majority population samples in all nine EqualStrength countries (≈ 1,500 respondents per country, t=10 15 minutes) The online survey will contain a conjoint experiment, attitude measures and an avoidance task The study of prejudicial attitudes with multiple instruments (ie attitudinal questions; social distance indicators derived from a conjoint survey experiment; and underlying ethnic bias as measured in an avoidance task) is one of the main contributions of EqualStrength
+For the experiment, we use a paired conjoint experiment without forced choice which Hainmueller, Hangartner and Yamamoto (2015) found to perform best when compared to a real world benchmark (thus maximising external validity) In this type of experiment, respondents are presented with a table showing the characteristics of (members of) two families These characteristics are assigned at random, which makes it difficult for the respondents to spot the precise goal of the research (thus reducing social desirability bias) We present several different experimental manipulations for each (adult) member of the family unit, which they can vary in their ethnicity, religious affiliation, race, gender, sexual orientation, health, and current housing and employment situation The final dimensions and levels will be selected based on the literature review and input from stakeholders, particularly NGOs representing minority populations Respondents will be asked to make about ten choices, so they will compare 20 different families (the exact number will be decided based on power calculations) We estimate both average marginal component effects (AMCEs; the causal effect of a given vignette attribute on respondents’ choices) and marginal
+         PART B   10
+
+
+means (MM, the predicted mean choice probabilities given a particular value of a vignette attribute) Leeper et al (2020) have shown that both quantities should be reported to get a complete picture of the results, and they also provide openly accessible software for this computation
+When respondents are asked to select which minority family they prefer in different social domains, we rely on a modified version of the classic social distance scale (Bogardus 1947) Respondents are asked to indicate which family (or family member) they prefer as their neighbours (housing), colleague (employment), children’s classmates (school), and doctor (health care) Next, respondents indicate to what extent they think it would be pleasant to have this family/family member as their neighbour/colleague/friend of their children Furthermore, we include standard outgroup attitude measures, as well as socio demographic information on the respondents The final questions will be selected after a careful analysis of previous surveys
+Moving from expressions of attitudes or behavioural intentions, to prejudice manifested in behaviour in a controlled setting, the survey contains an online avoidance task to simulated hate crime inclined behaviour conducted with MINDset, a platform for online experiments developed at one of the project partners (Essien, et al 2017) The task is based on the classic police officer's dilemma (Correll et al 2002): participants are confronted with a potentially dangerous target (ie, a person appears suddenly on the screen and is armed or unarmed) and they have to decide under time pressure whether to approach or avoid this target The ethnic group of the target varies randomly, as does the background picture in which the person appears (eg good/bad neighbourhood) Differences in reaction time reveal discriminatory behavioural tendencies towards minority and majority members that could result from stereotype activation (Cuddy et al, 2007)
+Cross national online survey with minority samples:
+We collect data with minority population samples in all nine EqualStrength countries (≈ 1,000 respondents per country, t=10 15 minutes) The online survey contains a vignette study and a conjoint survey experiment The minority samples include respondents who self identify as belonging to an ethnic, racialised or religious minority in each of the countries of the consortium Respondents are recruited via advertising campaigns posted in social networking sites, a method that has been increasingly used by social scientists (Del Fava et al, 2021; Zhang et al, 2020) to obtain samples of specific subgroups or hard to reach populations
+Vignettes are short descriptions of situations or persons that are shown to survey respondents to elicit their judgements about specific scenarios (Atzmueller & Steiner, 2010) Vignettes vary on key dimensions that are believed to influence respondents’ judgements In our case, respondents are asked to evaluate a series of vignettes representing social interactions between majority and minority group members that may be considered as discriminatory or depictions of microaggressions Respondents rate the fairness of majority characters’ behaviours, and their agreement with minority characters’ responses or reactions portrayed in the vignette Each respondent evaluates a series of vignettes taking place in different social settings, where we vary the ethnicity/racial/religious affiliation, gender, and sexual orientation of the ethnic minority characters, as well as their reactions to the situations
+The conjoint experiment captures minorities’ perception of fairness and effectiveness when faced with multi  dimensional policy choices aimed at reducing race  and ethnic based inequalities and discrimination in different domains As mentioned earlier, conjoint experiments perform best when compared to a real world benchmark and therefore increasing external validity We present respondents with some factual information about levels of discrimination or ethnic/racial inequalities in different domains (eg ‘a recent study showed that Black workers have been more economically impacted by the Covid 19 pandemic than white workers’) Afterwards, minority respondents are asked to choose among pairs of policies aimed at tackling discriminatory behaviours or inequalities based on two criteria: (1) efficiency in reducing discrimination/inequalities and (2) fairness The attributes manipulated in the experiment are the gender, ethnicity, race, or religious affiliations of the targets of discriminatory behaviour presented in the factual statements In parallel, the same respondents are presented several policy dimensions, including how targeted they are (eg ethnic quotas or ethnic sensitive selection criteria), or the extent to which the policy proposed emphasises procedural fairness (ie procedures to ensure that everybody is treated in the same way regardless of their personal characteristics)
+In person survey interviews:
+In Czechia and Hungary, the online survey is supplemented by in person survey interviews (~500 respondents /country, t=15 20 minutes) with the same content (vignette study and conjoint experiment) to collect information from members of the Roma community who cannot be reached via online channels This includes older and less educated Roma with limited or no access to the internet and/or limited digital skills The minority sample includes respondents who self identify as belonging to the Roma minority Respondents will be recruited via postal and personal contact in a stratified random sample of urban and rural settlements (varying in terms of the share of the Roma), by local survey agencies experienced in working with Roma samples As a starting point we intend to use EU MIDIS II’s sampling approach (FRA, 2016)
+  PART B   11
+
+
+Exploratory focus groups:
+We conduct exploratory focus groups (Wilkinson, 1998) with members of the majority and minority populations with the objective of refining the research design of the survey instruments presented earlier We ask participants to share their experiences and views with regard to the following: (1) the presence of discrimination and racism, (2) the extent to which they consider that they are mostly the result of social structure or individual behaviours, (3) the domains where racist and discriminatory behaviours are more likely to occur, (4) how discriminatory and racist behaviours materialise in contemporary societies and (5) what the best courses of actions (at the individual and at the policy level) are to reduce the incidence of discriminatory/racist behaviours
+Meso  and macro level indicators of the contextual factors of discrimination and prejudice:
+To study the local and national contexts of discrimination and prejudice, we use multiple   mostly administrative   datasets Municipality data (ie, meso level) will be collected in four categories
+(1) Socio demographic factors are captured by the local population size, the share, composition and type of ethnic minority groups in the municipality and local residential segregation indices Most of these data are available in public administrative datasets and access will be secured through the partners in the nine involved countries Ethnic origin can be differently measured in the different countries (Jacobs et al 2009) To capture ethnic ancestry, we first rely on the country of birth of inhabitants and  if the data allow  parental countries of birth For the local residential segregation indices (eg dissimilarity, isolation and interaction indices), we will use data on the neighbourhood level, where available
+(2) Socio economic factors include local levels of unemployment and median income These data are available in public administrative datasets
+(3) Supply side factors are defined by attributes like (social) housing supply, vacancy rates on the labour market and prevalence of childcare facilities The data sources are twofold: first, administrative data on, for example, social housing and recognised childcare facilities; second, we will manually collect data from relevant public websites (eg job, or childcare sites), which will also be used by WP2 to ascertain a sampling frame for the correspondence tests
+(4) Socio cultural factors as measured by public attitudes towards migrants and minorities in the cross  national survey with majority samples, which include a municipality identification variable (eg postal codes) Aggregating individual survey data on attitudes to the municipality level have already been successfully applied in previous discrimination studies (Carlsson & Eriksson 2017; Verhaeghe & De Coninck 2022)
+These municipality data will be translated into standardised indicators and, when required, new indicators will be constructed Additionally, factor analyses will be performed to reduce the number of indicators and avoid multicollinearity in empirical analyses We aim to follow an intersectional approach to these contextual indicators, in which multiple axes of exclusion are combined (eg unemployment figures broken down according to gender and/or ethnic origin) Finally, we also examine how the four categories of data above are interrelated For example, is there less supply of housing, job vacancies or childcare in more diverse or poor municipalities? There is also a policy dimension, ie how effective are policies such as catchment based access to schools or desegregating policies like dispersal programs?
+In addition, national level data will be used to measure effects of policy context on discrimination levels We take several policy dimensions into account, such as policy inclusiveness (as conceptualised and measured with the Migrant Integration Policy Index  MIPEX  of 2020) and multiculturalism (as conceptualised and measured with the Multicultural Policy Index  MCI  of 2020) Since MCI is not yet available for Czechia and Hungary, this indicator will be constructed To measure effects of gendered family policies of welfare state regimes, we use different dimensions of the OECD Social Expenditure and Family Dataset More precise data on family policy spending is available in the European System of Integrated Social Protection Statistics database (ESSPROS) coordinated by Eurostat The contextual data will be supported with qualitative information on social protection systems regularly updated by the European Social Protection System in Member States (MISSOC)
+Secondary survey data:
+EqualStrength will make use of secondary survey data that includes sufficiently large minority samples and relevant questionnaire modules that consider discrimination and/or hate crime We will prioritise European cross national data sources, but country specific surveys (eg Perceived discrimination in the Netherlands II, AfroZensus in Germany) may also be used to complement the former In particular, we will rely on data from the Fundamental Rights Agency’s Second European Union Minorities and Discrimination Survey (EU MIDIS II), which collected information from over 25,500 respondents with different ethnic minority and immigrant backgrounds across all 28 EU Member States during 2017 EU MIDIS II asked minority respondents about experiences of discrimination, harassment, police stops, and rights awareness, but a limited number of minority groups are included in each of the countries Other cross  national surveys with relevant questions on perceived group level discrimination are the European Social Survey and selected special modules of the Eurobarometer
+PART B   12
+
+
+134 Previous initiatives
+For WP2, we will partly rely on field experimental data gathered as part of the Growth, Equal Opportunities, Migration & Markets (GEMM) project, which received funding from the European Union's Horizon 2020 research and innovation programme Four of the partners of EqualStrength took part in the GEMM project Specifically, Lancee was the work package leader of the cross national field experiment on ethnic discrimination in hiring and Di Stasio, Fernandez Reino, and Veit were the fieldwork coordinators in three of the participating countries These same countries are also included in EqualStrength, which allows for a comparison of ethnic discrimination trends over a span of about seven years (the GEMM data collection took place between 2016 and 2018, while for EqualStrength the fieldwork will take place between 2023 and 2025) The partial harmonization of the research design across projects is necessary to compare levels of discrimination at different points in time To this end, the overlap in scientific staff also guarantees knowledge sharing and a transfer of best practices in both the research design and fieldwork implementation Importantly, WP2 in EqualStrength has a much broader scope than GEMM, both in its geographical coverage and in its cross setting focus, which is crucial to examine structural discrimination
+Several of the partners of EqualStrength are also co applicants of DiscrimiData, a COST action currently under review that would bring together scholars, professionals and practitioners from different sectors and disciplines (Open Call Collection OC 2021 1, Proposal Reference OC 2021 1 25593; Title: Experimental data about equity and discrimination of minorities; Main Proposer: Eva Zschirnt) The main purpose of the COST action is to create a network of experts on discrimination to coordinate future research in this field, implement comparative research designs, promote field experimental research on discrimination in countries where it does not yet exist, train future researchers (eg PhD students) and non academics in conducting experiments on discrimination, provide basis for evidence based policy recommendations If funded, the COST action would provide an excellent platform to boost our impact and dissemination strategy Already while preparing the proposal, we have laid the groundwork for a solid network of stakeholders from academia, NGOs, civil society and the policy field, some of whom have also joined EqualStrength’s advisory board We are therefore optimally positioned to guarantee a transfer of knowledge to the field and, vice versa, to gather insights from practitioners and policymakers that can inform our research plans
+Many of the co applicants are involved in IMISCOE, the largest European interdisciplinary research network in the field of migration, integration and diversity studies Although IMISCOE does not have, at present, a standing committee on racism and discrimination, the co applicants are active in the organization of conferences and working groups This interdisciplinary network has strong affinities with EqualStrength’s research program and will offer a platform for exchange and dissemination
+In addition, we make use of existing data about anti discrimination policies (eg, MIPEX) and multicultural policies (eg, MCI) in WP3 With respect to MCI, we will contribute to this project by adding descriptions of the multicultural policies for We may also rely on data derived from IPOLIS that has been
+   developed within the frame of the InGRID and InGRID 2 projects
+ modules for certain hard to reach groups that EqualStrength also covers as its target groups; ie immigrants and the
+  Lenaerts et al
+135 Interdisciplinary approach
+Roma minority (
+Czech Republic and Hungary
+, 2021)
+The conceptual approach, theoretical framework and research design embraces interdisciplinarity and engages with an integrate perspective that borrows perspective and methodologies from multiple disciplines In particular, our focus on forms of structural and cumulative discrimination is derived from the sociology of race We employ a strong focus on causal identification and experimental designs often found in economics We explore the subtler manifestations of prejudice and implicit bias through the use of reaction time tests, which is rooted in social psychology Our attention to a risk and resilience perspective, which considers both stressors and protective factors, is derived from the sociology of health Finally, our call for a gendered analysis of access to services in different welfare states is rooted in comparative social policy
+This interdisciplinary perspective leads to new pathways forward that would otherwise remain out of reach For example, the recognition of indirect forms of discrimination and the ways in which discrimination is institutionalised made structural pushes forward the often individualised focus common to mainstream approaches in social psychology Similarly, the multilevel and cross setting approach, which is rooted in sociology, allows us to examine the ecological and external validity of socio psychological theories of outgroup derogation and ingroup favouritism For example, the analysis of how implicit bias can vary across contexts will reveal the conditions under which subtler expressions of prejudice are more likely to manifest At the same time, the attention of social psychologists to individual coping strategies to deal with stigma and perceived discrimination (in terms of identity threat, identity management, ethnic and national identification and well being) enrich sociological thinking with a focus on individual agency, thus avoiding the potential of structural racism theory to be overly deterministic (Shiao and Woody, 2021)
+PART B   13
+, as most recently IPOLIS developed special
+
+
+Methodologically, we extend the state of the art by unique, targeted and complementary array of methods (eg, field experiments, conjoint experiments, shooter tasks) We apply these methods in innovative ways to offer unparalleled insight into the pattern and impact of cumulative disadvantage For example, we propose the first interlinked set of field experiments on cumulative discrimination across life domains Only with an integrated, cross  setting design of this kind can we measure whether ethnic, racial and religious inequalities in one domain can block opportunities in other domains Furthermore, we collect comparative data on avoidance behaviour towards different groups implementing an avoidance task in an online cross national survey, thus contextualising socio psychological theories of intergroup behaviour
+136 Gender dimension
+Throughout all the WPs of EqualStrength, we give gender  and its intersection with race, ethnicity, social background, sexual orientation, and parental status  a central place in the analysis More specifically, gender is experimentally varied in the field and conjoint experiments and in the avoidance task, which allows us to examine whether exposure to cumulative and structural discrimination (WP2), prejudicial attitudes toward outgroups (WP4), discrimination attributions and the coping strategies after perceiving discrimination (WP5) differ for minority men and minority women Including gender in the analysis is essential, as previous studies have found strong gendered patterns in ethnic discrimination depending on occupational gender segregation (Di Stasio & Larsen, 2020) and typically more hostile attitudes towards minority men (Gereke et al, 2020)
+Importantly, we consider gender in combination with parental status An important line of sociological research has drawn attention to the vulnerable position of mothers in the workplace, in addition to the disadvantage commonly associated with gender, a phenomenon known as the motherhood penalty (Correll et al, 2007) This penalty partly results from the expectation that mothers are less competent and committed workers, a type of normative discrimination (Benard & Correll 2010) Men, on the other hand, even experience a premium for their fatherhood’s role and they are held to more lenient standards when it comes to combining work with care giving responsibilities (Kmec, 2011) The combined role of gender and parental status has only widened during the Covid  19 crisis, to an extent that scholars refer to it as a ‘gendered pandemic’ (Yavorsky et al, 2021) It is therefore of paramount importance to examine how gender and parenthood intersect in the reproduction of inequalities, both at the workplace and in other domains Importantly, for parents  and especially women  to be able to resume work after childbirth related interruptions, access to affordable childcare facilities is key
+Our research extends the focus on motherhood penalties and fatherhood bonuses to minority groups On the one hand, gendered norms about ideal workers typically refer to white men and women from the ingroup (Chavez and Wingfield, 2018), meaning that expectations about workplace commitment and parental involvement may apply less strongly to minority groups On the other hand, ethnic minorities and Muslim women in particular (Khoudja & Fleischmann, 2015; Kanas & Steinmetz, 2021) have a lower labour force participation than other groups, which may also impact perceptions of their ability to combine parenthood with employment In EqualStrength, we will examine the intersection between ethnic and racial background, gender and parental status
+We are well positioned, as a team, to carry out this research program Our consortium includes experts who have worked on gender and ethnic inequalities, and on their intersection, as well as on the role of family policies and gender egalitarian climates in shaping these inequalities (as we further elaborate in the section ‘Capacity of participants and consortium as a whole’)
+137 Open science
+EqualStrength has an ambitious data driven research plan intending to produce robust and reliable empirical evidence regarding cumulative and structural forms of discrimination, outgroup prejudice and hate crimes against ethnic, racial and religious minorities EquaStrength will adhere to the EU’s approach of making data “as open as possible, as closed as necessary”, which will be part of the Data Management Plan (DMP) We follow the guidelines established in the FAIR Data Management Guidelines for making our data ‘findable, accessible, interoperable and reusable (FAIR)’ We will also be guided by the principles outlined in the European Research Council’s Guidelines on Implementation of Open Access to Scientific Publications and Research Data and the General Data Protection Regulation For data collected through the internet, including through sampling respondents on social media and analysing existing social media content, we will be guided by the Ethical Guidelines 30 of the Association of Internet Researchers
+Specifically, we intend to collect new data and use already existing data sources The expected result of our collaboration will be a series of both academic articles and more accessible publications intended for a wider audience Sharing results and empirical evidence and protocols with citizens, other researchers and agents operating in the European Research Area or in any substantive field related to our research interest is the goal of our scientific endeavour The consortium is fully aware of the importance of committing to the principles of open science, open access and open data In this section we enumerate a number of commitments we make as a consortium
+PART B   14
+
+
+ The crucial mandate of the Open Science logic is to make data and results open and easily available to other
+ researchers and agents in the European Research Area and beyond We believe that open science is a crucial means to make science more transparent (replicable), efficient (avoiding duplication) and democratic (accessible) The consortium is built upon a network of researchers with ample experience in participating and managing EU funded projects We, thus, acknowledge and endorse the priority that the European Commission attributes to open science as the standard working method under its research funding programs In respecting the principles of open science, we seek to go beyond the simple compromise of making our results widely available through open access publications We intend to disseminate our data and results through different means, as well as the empirical protocols and materials used for data collection, above and beyond open access publications The consortium also commits to promote the
+ transferability of the knowledge that will be generated
+138 Data management and management of other research outputs
+The academics of the consortium have a strong background in the production of data of various kinds and having all used data from third parties in many of our research and publications, we collectively share the view that the generation of both basic and applied knowledge requires the cooperation of all agents involved within the broader European Research Area It is not only in the benefit of future research projects that we aim to make our results and data widely available Making our data available to third parties can also improve science society relationships We understand that the dissemination of our results and the visibility of EqualStrength as well as of the consortium members requires full transparency in both the methods used to produce our evidence, our data, and any material and procedure involved in the analysis
+A specific data management plan (DMP) will be developed as part of WP1 and agreed upon at the start of the project The DMP will be validated by all consortium members during the kick off meeting The WP1 leader ensures that this plan aligns with the FAIR principles ('Findability', 'Accessibility', 'Interoperability' and 'Reusability') of Open Science The first DMP will be delivered to the Commission by month 6 As suggested by the Commission, this plan will be updated and revised by the end of the project with a detailed reporting of any innovations and modifications made to the original plan In addition to this generic compromise to formulate a data management plan at the start of our collaboration, we would like to make a number of explicit commitments to make our data available, identifiable and citable, and to grant user friendly access and preservation over time This applies to all kinds of data produced in the context of the project, including field experiments, online surveys, contextual and policy data and qualitative data (see Table 18a) These data will be consolidated into five different datasets Four of these datasets will be deposited for public use, and pre registered in the case of experimental data The data collected from the exploratory focus groups will not be publicly disseminated The coordination and management team, based at UCD, will be in charge of security, confidentiality and ethical issues in terms of data management The procedures for data cleaning, security, and quality assurance will be thoroughly described in the DMP
+Table 13b Type of data generated or collected by EqualStrength
+   Primary data collected
+     Description
+     Work Package
+      Cross national linked field experiments
+Contextual data based on secondary data sources
+Online survey data with conjoint experiment
+Online vignette study
+Collected in the 9 participating countries in the consortium through a WP2 harmonised automated procedure Sample size will be decided based on a
+power analysis once the experimental design is refined Preliminary
+estimations based on effect sizes from previous studies suggest a sample
+size of N=788 (80% power, alfa=005, Cohen’s D=002) per country per setting Both the study design and the analysis plan will be pre registered
+Municipality level data will be assembled in four categories In addition, WP3 at the national level multicultural and anti discrimination policies will be described, together with the gendered family policies of the welfare state regimes
+Collected by a reputable survey company, with country representative WP4 samples (~1,500 per country) drawn from the company’s panel of
+respondents in the 9 countries of the consortium
+Minority samples drawn by targeted advertising campaigns in social WP5 networking sites in all countries of the consortium (expected sample per
+                    PART B   15
+
+
+      Face to face survey
+Exploratory focus groups
+country ~ 1,000)
+Collected by a reputable survey company, with Roma population samples from the Czechia and Hungary (~500 per country)
+Three types of focus groups depending on the compositions:
+ Men and women of the ethnic majority populations
+ Men and women who self identify with an ethnic, racial or
+religious minority
+ Key ‘discriminatory’ actors (landlords, employers, childcare
+workers)
+WP5
+WP2, WP4, WP5
+          Making our data available: The anonymised datasets are deposited in repositories certified by Data Seal of Approval, so other researchers respecting all four FAIR principles in the context of the EOSC and global drive towards Open Science can use them We also publish our empirical protocols (syntax and programs used to analyse data) together with any featured result in GitHub to facilitate replication This also applies to metadata or underlying data, raw data and any information needed to validate the results, including analysis protocols and any relevant documentation and background information regarding the production of our data We use the Creative Commons CC0 waiver for open access to data
+Data identification and citation: To ensure that data is easily identifiable by potential users in the future, we provide our datasets with persistent identifiers or PIDS such as DOI, Handle, PURL, URN: NBN We rely on official repositories certified by Data Seal of Approval (European Open Science Cloud, and federated repositories such as Research Data Netherlands, DIGITALCSIC in Spain, and the UK Data Archive), selecting those allowing the deposit and/or downloading of data free of charge Consequently, data are disseminated with robust identifiers instead of URLs, which can be unstable over time
+User friendly and safe data formats that will allow preservation and interoperability: EqualStrength datasets are stored in the most popular and accessible formats; plain text files will be used for backups The data will be deposited in separate files corresponding to the national samples and a cumulative harmonised data file for cross  national analysis
+Accessible research results: the consortium complies with the open science recommendations of early sharing our main results The project website will be the main communication channel for the communication of research outputs, including working papers, country reports, policy recommendations and press releases Pre prints and working papers will also be published in online paper servers such as SocArXiv The consortium will also make use of ORE, the open access publishing platform of the European Commission
+Reproducible and robust research results: As explained in the excellence section, EqualStrenth ensures reproducibility of its research output through a transparent research design and methodology With regard to the experimental data generated in WP2, WP4, and WP5, we will pre register the hypotheses and research design prior to any data collection We also aim at making data robustness checks and complementary online materials available to the research community
+Co design, co creation and co assessment: the EqualStrength consortium provides means for citizens and stakeholders to participate in research designs and to incorporate their views into our research tools Specifically, WP4 and WP5 will conduct exploratory focus groups that feed into the research design The Stakeholders Committee and Advisory Board broadens the consortium’s expertise and facilitates early engagement with key audiences, in particular civil society organisations and policymakers, which not only actively participate in the early design phases but also throughout the project
+139 Ethics (technical annex)
+Use of human subjects, informed consent and deception:
+As introduced in the ethics self assessment, participants in field experiments are selected and informed consent is infeasible as it would compromise the veracity of responses to a given candidate’s application/contact Post hoc informing of participants is also infeasible as the individual responses are anonymised so that no link remains between correspondence and the participant As a result, the initial receipt, review and response to a candidate’s profile involves deception To address the resulting ethical concerns, where relevant, a public debriefing will be employed This approach does not provide any direct links between those who responded to the candidate’s details and the employer/line manager as that has the potential for negative consequences
+The public debriefing approach involves two mechanisms First, using the contact details which are retained but not linked to individual responses, all participants will be informed of the objectives of study and the publicly reported results In this way, the information about the broader pattern will be known and an understanding of the
+ PART B   16
+
+
+way in which the data was collected will be conveyed to all participants Second, an individual debriefing report will be provided if participants seek additional details upon being informed via the public report In the latter case, the general results will be coupled with a clear explanation of the methods used and, moreover, the fact that all data is permanently anonymised such that no links can ever be drawn between participants and treatment of candidate profiles
+It is worth mentioning that these ethical concerns are not unique to the approach taken in this proposal The approach is needed as field experiments, correspondence studies and audit studies, like those proposed here, are considered to be one of the only valid methods to ascertain unbiased evidence of discriminatory behaviour There is a demonstrable track record in social science research in disciplines such as economics (eg Bertrand and Mullainathan 2004; Neumark et al 2019), political science (eg Butler and Crabtree 2017), social psychology (eg Carpusor and Loges 2006, Feldman and Weseley 2013), social policy (eg Darolia et al 2015), and sociology (eg Rodriguez Menes and Rovira 2019) Hundreds of in person and online audit studies have been conducted over the past 50 years across many Western countries (Baert 2018; Quillian et al 2019) These studies have similarly confronted the ethical challenges of conducting studies of discrimination based on field experiments Drawing from this record in the literature, the proposed research will deploy clear ethical protocols to mitigate concerns These include institutional review at each member institution, experience of the leads/partners, inclusivity of NGOs and policymakers (through the Advisory Board and Stakeholders Group), adherence to all relevant legislation (eg GDPR) and involvement of a Data Protection Officer at each institution tasked with data collection
+Processing of personal data and vulnerable individuals/groups:
+The ethics self assessment covered in some detail the process of anonymising and storing of data To avoid too much repetition, the key details are condensed to the following:
+ Both experimental and survey data will be immediately anonymised and stored according to highest data protection standards defined in a Data Management Plan developed at the lead institution (UCD)
+ Only data that are required for meeting the research objectives will be collected
+ We guarantee confidentiality of the data and the minimal inconvenience imposed on the research participants
+In all field experiments, inconvenience to participants and applicants are minimised by all offers of interview
+or employment being promptly and politely declined
+ Ethnicity data is queried in the surveys (WP3, WP4, WP5) and will be collected within parameters defined by
+relevant GDPR that pertains to highly sensitive personal data No minors are included in the data collection, but minority survey respondents can constitute vulnerable people in some cases
+ In all instances, the data collection will comply with country specific ethics requirements In non EU countries (ie, UK and Switzerland), research procedures will comply with EU legislations on Ethics and Data Protection (2021)
+Further processing of previously collected personal data: all previously collected survey data will accessed
+via publicly available data archives No individual information will be used at any stage of the secondary data analysis
+Transfer of personal data to and from non EU countries: the consortium includes two non EU members (ie, United Kingdom and Switzerland) The data collection will comply with country specific ethics requirements in each country where it is collected In addition, non EU countries (ie, UK and Switzerland) will comply with EU legislations on Ethics and Data Protection (2021) In sum, all data will be collected, processed and stored in a lawful, fair and transparent way, conforming to the principle of data minimisation set by EU guidelines
+Table 13c Ethical issues, by WP
+ As mentioned in the Ethics Self Assessment (PART A), in Germany and Switzerland it is customary to include
+ documents such as vocational or school qualifications in an application There will be context specific approaches developed with the relevant legal bodies In the case of Germany, the Federal Anti Discrimination body commissioned a legal expertise on how this can be addressed in compliance with German legislation (Kühn et al, 2013) A similar, but unpublished, expertise on the legality of correspondence testing and the use of documents also exists for Switzerland, which will be the reference In sum, no stigmatisation or negative consequences are foreseen
+ in the collection, analysis and dissemination of results
+  the GDPR, a Data Protection Impact Assessment (DPIA) will be conducted in line with Article 35 GDPR and we will closely collaborate with the Data Protection Officers (DPOs) of the respective institutions and the lead (UCD) to guarantee adherence to guidance on data privacy issues In addition, we include partnerships with
+ To ensure compliance with
+  NGOs to receive additional guidance for target minority populations
+     WP
+     Ethical Issues
+  PART B   17
+
+
+     WP2: Measuring cumulative discrimination with linked field experiments across settings
+WP3: Policy and institutional contexts of discrimination   A multilevel approach
+WP4: Prejudice and xenophobia among the majority population
+WP5: Perceptions of discrimination and hate crime: coping strategies and impacts on wellbeing
+Field experiments using covert research methods:
+ Obtaining informed consent from participants is not possible
+ Use of deception as fictitious application materials will be used
+ Creation of fictitious application materials (including vocational or educational
+certificates, in DE and CH)
+ Individual debriefing of participants is not possible as individual responses are
+not retained, preventing post hoc consent Public debriefing will be used where
+required and feasible
+Handling personal data in line with the GDPR:
+Collection of special categories of personalised data: data subjects (people who have not given their explicit consent to participate in the project), data collection (privacy invasive methods or technologies eg the covert observation or deception of individuals), Involvement of non EU countries: UK, CH (transfer of personal data to non EU countries, collection of personal data outside the EU → Data will only be shared in anonymised form)
+Using secondary, aggregated and fully anonymized data at the municipality level Aggregating data collected in WP2 and WP4 to the municipality level
+Handling personal data in line with the GDPR:
+collection of special categories of personalised data: data subjects (vulnerable people), type of data (racial or ethnic origin, political beliefs), Involvement of non  EU countries: UK, CH (transfer of personal data to non EU countries, collection of personal data outside the EU → Data will only be shared in anonymised form)
+                2 Impact
+21 Project’s pathways towards impact
+EqualStrength fully responds to the expected outcomes detailed in the topic HORIZON CL2 2022  TRANSFORMATIONS 01 08 (‘Strengthening racial, ethnic and religious equality') and to the wider impacts detailed in the Horizon Europe Strategic Plan 2021 2024 In particular, the project seeks to inform the development of evidence based policies and to produce policy recommendations that help fight discrimination and racism; enhance social fairness; and tackle inequalities to achieve a more inclusive society, including in response to the socio  economic challenges related to the COVID 19 pandemic
+The findings of EqualStrength will be of relevance to five target audiences: (1) academics across a range of disciplines in the social sciences, in particular sociologists, demographers, economists and social psychologists investigating racism, discrimination, and prejudice; (2) policymakers at government agencies and other public bodies, with portfolios related to social inclusion, social cohesion, integration and anti discrimination, both at the local and the national level; (3) civil society organisations, such as NGOs and think tanks fighting against racism and for the improvement of the living conditions of ethnic, racial and religious minorities; as well as trade associations, such as employers’ or landlords’ associations; (4) media practitioners in traditional print, broadcast, and online outlets; and (5) the public at large, ie both the majority population and minorities who self identify as belonging to an ethnic, racialised and/or religious group Table 21a summarises the main audiences that EqualStrength will target with the dissemination and communication activities detailed in section 22
+Table 21a Audiences of EqualStrength
+Academics from different disciplines (sociology,  To stay up to date with new research in their PART B   18
+   Audiences
+With examples of actors that have already shown interest in EqualStrength or will be targeted in the implementation and dissemination strategy
+     Reasons for being interested in EqualStrength
+   
+
+  demography, economics, social psychology, political science) working on discrimination, prejudice, and racism
+    field
+ To develop research networks and
+collaborations with members of the consortium
+  Policymakers at the local, national or supra national level with portfolios related to social inclusion or anti  discrimination Researchers in international organisations such as the OECD and IOM are also included in this category
+Eg EU Fundamental Rights Agency (Europe); Equinet (EU network of equality bodies); Coalition of Cities against Racism (Europe); Race Disparity Unit (UK); OECD; Spanish Observatory for Racism and Xenophobia (Spain); Greater London Authority (UK); Unia (Belgium); Kenniscentrum Ongelijkheid Amsterdam (the Netherlands), Ministrites of Education, Regional Development, and Labor and Social Affairs (Czechia) and other national equality bodies
+   To channel new knowledge generated by EqualStrength into specific policy initiatives to tackle discrimination,racism and their damaging impacts
+ To expand the type of evidence on which they rely on to inform their positions and interventions
+  Civil society organisations, which include national and European NGOs and think tanks working for the effective inclusion of ethnic, racialised and religious minorities, or providing advice to policymakers in the area of social inclusion; and national trade associations in the labour market, housing, and childcare provision
+Eg European Network Against Racism; European Roma Rights Centre; Roma Education Fund; Movisie and Art1 (the Netherlands); The Runnymede Trust and Roma Support Group (UK); Secretariado Gitano (Spain); Autonomia Foundation, Bagázs Association and Hungarian Civil Liberties Union (Hungary); Levl (Belgium); Migrant Rights Centre (Ireland); People in Need and Romea (Czechia)
+    To stay up to date with research findings that can be translated into policy or outreach campaigns
+ To increase knowledge exchange between the academic sector and civil society organisations, so they can influence the research objectives and designs of academics when developing new projects or applying for research funding
+  Media
+Eg The Economist, FT, The Conversation, Roma Press Center Budapest, El País, Irish Times and other national and international media outlets
+   To establish channels of communication with academics working on topics of high societal impact
+ To cover evidence based research that will attract interest from their audiences
+    Public at large, especially the population who self identify as belonging to an ethnic, racialised and/or religious minority
+  To incorporate minorities’ views and lived experiences of discrimination into the scholarly and political debates on discrimination and racism
+ To improve majority population’s understanding on how discrimination and racism operate, as well as their negative impacts on minorities and on societies as a whole
+   211 EqualStrength’s contributions to meet expected outcomes set out in topic HORIZON CL2  2022 TRANSFORMATIONS 01
+Expected Outcome 1 Increase knowledge of structural forms of racism and episodes of hate crime and discrimination; how racism, xenophobia and discrimination are institutionalised and made structural, and impact the lives of minorities
+  Outcome type
+   Audience
+   How EqualStrength will address expected outcome 1
+   Scientific
+  Academics
+  Providing new and sound knowledge on how cumulative disadvantage operates in European societies and sustains existing ethnic, racial and religious inequalities in the labour and housing markets, and in access to childcare facilities
+ Improving methodological knowledge on experimentation and, in particular, the applicability of linked field experiments across settings
+  PART B   19
+
+Societal
+
+    Increasing scholarly knowledge on variations in outgroup prejudice towards different minorities (Muslim, Roma and Black minorities) in different social settings and across European countries
+ Describing the lived experiences of Muslim, Roma and Black minorities (with and without a migration background) with regard to discrimination and hate crime; how they react and cope with discriminatory situations and micro/macroaggressions in different life domains; and the effects of these experiences on their well being
+        Policy makers
+  Providing authoritative research on (1) the role of gatekeepers (employers, landlords and childcare managers) in sustaining ethnic and racial inequalities; (2) the impact of continuous exposure to discrimination and micro/macroaggressions on minorities’ lives
+ Increasing knowledge about the conditions under which people of minority backgrounds are more likely to support affirmative action policies
+ Making policymakers aware of the importance of experimental evidence and the hierarchy of evidence in discrimination research
+ Establishing channels for future knowledge exchange activities (eg collaborative projects, regular meetings, etc)
+    Civil society org
+   Providing evidence based research reports that can be used to increase awareness on racism and discrimination
+ Collaborating with civil society organisations to increase knowledge and awareness about the consequences of structural racism, hate crime and discrimination
+ Establishing channels for knowledge exchange, so (1) the experiences of NGOs are integrated into the research design, and (2) the research outputs are used by civil society organisations in their work
+     Media engagement to share EqualStrength’s public interest findings, so the Media consortium can reach a larger audience to inform about the damaging effects of
+discrimination and racism on the lives of minority populations
+   Expected Outcome 2 Enhance anti racism and anti discrimination policies and practices by evaluating existing policy responses
+      Outcome type
+Audience
+How EqualStrength will address expected outcome 2
+    Communicating new knowledge on the effects of institutional and contextual factors (including public policies and legislation) in reproducing, amplifying or reducing ethnic, racial and religious discrimination and hate crime
+ Increasing knowledge about the conditions under which people of minority ethnic background are more likely to support affirmative action policies
+    Scientific
+Academics
+    Providing authoritative evidence based knowledge on how ethnic, racial and religious based discrimination and hate crime vary depending on local  and national  level factors, such as policies and legislation This knowledge will then be translated to context specific measures aimed at tackling discrimination and racism
+ Communicating the project’s main findings on the conditions under which people of minority ethnic background are more likely to support affirmative action policies in different domains
+   Policy makers Civil society org
+   Societal
+Media
+Public at large
+ Media engagement to share EqualStrength’s public interest findings, so the consortium can reach a larger audience to inform about the damaging effects of discrimination and racism on the lives of minorities
+ Having access to updated evidence that can strengthen public demands for anti  discrimination policies and policies to manage ethnic diversity
+     Expected Outcome 3 Document and make visible the contributions, struggles and cultural heritage of minority communities
+  Outcome type
+   Audience
+   How EqualStrength will address expected outcome 3
+ Scientific
+Academics
+ EqualStrength will document the patterns of cumulative disadvantage and social exclusion faced by Muslim, Black and Roma minorities (of migrant and non migrant origin), as well as their experiences and coping strategies in
+   PART B   20
+
+
+       Policymakers Civil society org
+Public at large
+    Providing authoritative policy relevant knowledge about minorities’ strategies to cope with discriminatory situations, and the impact of the latter on minorities’ wellbeing
+  Societal
+dealing with everyday discrimination and racism The project will also examine the impact of discrimination on minorities’ subjective wellbeing and mental health
+ Receiving coverage of EqualStrength’s public interest findings; in particular, making visible to the media the pervasiveness and damaging effects of racism and discrimination on the lives of minority populations
+Media
+   212 Wider scientific and societal impacts of EqualStrength
+The expected wider impacts of EqualStrength’s have guided the overall design and research objectives of the project In this section we outline the scientific and societal impacts that we expect to achieve based on the project’s research outputs Most of the expected impacts described below will likely materialise near or at the end of the project Note, however, that not all impacts (whether scientific or societal) of a project of this magnitude will be measurable or directly attributable to the project
+In terms of scientific impacts, we expect EqualStrength to (1) create authoritative evidence based knowledge that shapes the scholarly debate on discrimination and racism in Europe; (2) improve the methodological knowledge regarding the application of a range of experimental and observational methods to the study of discrimination and racism; (3) launch and consolidate the research career of junior social scientists in different European institutions; and (4) consolidate interdisciplinary networks which will materialise in follow up research projects and funding In table 21b, we outline the expected scientific impacts and propose indicators to monitor their achievement
+ Table 21b Wider scientific impacts
+  Wider scientific impacts
+   Impact indicators
+   Ground breaking evidence  based knowledge
+  At least 12 publications in high impact journals in the social sciences
+ At least 20 presentations in research conferences by members of the
+consortium
+ At least 6 invitations to present EqualStrength research outputs in specialised
+workshops and roundtables organised by other researchers and institutions
+  Launch and/or consolidate the careers of a new generation of researchers
+Improve knowledge on research methods to study discrimination
+ At least 10 publications (co) authored by junior researchers
+ At least 2 methodological papers comparing the advantages and disadvantages of using experimental versus observational methods to study discrimination and racism
+   Establishment of new interdisciplinary networks
+   At least 2 of follow up research projects and initiatives where the members of the consortium participate
+ At least 5 of publications with scholars from other disciplines that build on the research contributions of EqualStrength
+     With regard to the wider societal impacts of the project (Table 21c), we expect that the outcomes of EqualStrength contribute to a more inclusive and egalitarian European society by (1) raising public awareness about the effects of
+ structural racism and discrimination on the life opportunities and wellbeing of ethnic, religious and racialised minorities; (2) establishing knowledge exchange networks between the academics in the consortium and policymakers working in the areas of social inclusion and anti discrimination policies; and (3) collaborating with civil society organisations and government officials in the design and implementation of new programmes or initiatives aimed at reducing discrimination and/or mitigating its negative impacts
+Table 21c Wider societal impacts
+   Wider societal impacts
+   Impact indicators
+ Raise public awareness on how structural racism and discrimination operate to perpetuate ethnic and racial inequalities in
+ Media stories covering the project’s findings
+ However, it will not be possible to identify the causal impact
+of EqualStrength on public awareness PART B   21
+  
+
+  contemporary societies
+Strengthening knowledge exchange networks between policymakers, NGOs and academics
+ Regular exchanges with policymakers and NGOs (emails and online meetings)
+ At least 2 joint research projects between members of the consortium and policymakers or NGOs (eg follow up research projects, policy workshops, etc)
+   Inform the public debate on ethnic and racial inequalities, discrimination and racism
+   Participation of consortium members in media debates (eg mentions in the press) and public policy discussions (eg references in policy documents, or requests for participation in workshops or events organised by policymakers)
+ Publication of Op Eds in high impact media outlets
+      Partnership with policymakers or NGOs to implement interventions, policies and campaigns to reduce discrimination and racism, and/or mitigate their impacts
+  213 Potential barriers to societal impact
+A challenge that researchers and civil society organisations face when addressing discrimination and racism is the often polarised and, sometimes, simplistic positions within media, policy and public audiences, who will often seek out narratives and stories that reaffirm their existing opinions on a given topic (Iyengar et al, 2009; Bakshy et al 2015) EqualStrength will rely on the extensive experience of their members and universities’ communications teams to convey the project’s research findings in a clear and objective manner in order to reach a diverse set of audiences
+An additional challenge is to ensure that the findings of the project are effectively translated to different non  academic audiences, avoiding academic jargon, excessive information and non essential technical details Communicating research findings in an easily understood format without oversimplification can be a challenge for many academics However, the members of the consortium have extensive experience in media outreach and translating research to non academic audiences The consortium will also rely on the expertise of the Advisory Board and Stakeholders Group, which will provide essential and continuous guidance on the interpretability of the project’s findings and the most appropriate means for their communication
+22 Measures to maximise impact   Dissemination, exploitation and communication
+We will maximise the impact and dissemination of the project’s findings through the Plan for dissemination and exploitation, which also includes the project’s communication activities This plan, coordinated in WP6, aims to maximise impact by engaging with the target audiences during and after the lifetime of the project In doing so, we will make sure that EqualStrength’s findings reach the target audience through the most effective distribution channels and produce lasting uptake
+221 Dissemination and exploitation plan
+The objective of the dissemination and exploitation plan will be to effectively communicate the results of EqualStrength so that they can be exploited by the project’s target audiences The exploitation of EqualStrength’s outputs is thus the foundation for its impact on policy, scholarship and society at large
+Project materials and research outputs will be accessible to members of the public online via the project’s website The most effective approach for dissemination to the public at large will take place through the four audiences described earlier (academics, policymakers, civil society organisations, and media) These four audiences will therefore be the focus of the project’s strategic outreach work Table 22a presents the main dissemination products, and the audiences we aim to target with each of them
+Table 22a Overview of dissemination products, channels and target audience
+  Dissemination product
+   Channel
+   Target audience
+ Datasets Working papers Journal articles
+Trusted digital repositories, such as the European Open Science Cloud
+EqualStrength website
+Open peer reviewed journals, early delivered through
+SocArXiv and similar repositories
+Policymakers Academics
+       PART B   22
+
+
+   Reports and policy briefings (eg country case reports, policy briefings)
+Op eds, Blog posts, Commentaries
+EqualStrength website
+Websites of institutions in the consortium
+Media outlets and specialised blogs, such as the OECD Forum Network
+Policymakers Civil society org Media
+     222 Communication activities
+EqualStrength will disseminate its major public interest findings to the media in each of the countries of the consortium, including through country case studies, blog posts, and press releases
+Table 22b Overview of communication activities
+  Communication channel and activity
+   Target audience
+   Aim
+  Regular updates on EqualStrength website, which will be hosted by UCD The website will provide access or links to the project’s research outputs and dissemination products
+   Academics Policymakers Civil society org Media
+Public at large
+   Facilitate audience interaction with the project Centralise project’s dissemination products
+ Academic conferences, workshops and seminars
+Stakeholder workshop
+Academics
+ Foster research collaborations with other academics, receive feedback on project’s research findings
+  Regular meetings and email exchanges with policymakers and civil society organisations
+    Policymakers Civil society org
+   Integrate stakeholder’ inputs to (1) ensure relevance and uptake and (2) build confidence in the project’s findings; increase visibility of project’s research outputs; build knowledge exchange networks and develop follow up initiatives
+  223 Exploitation of results and intellectual property
+Policymakers  Civil society org
+Present project’s findings; provide an opportunity to develop follow up initiatives and future collaborations
+  Media outreach via press releases and press notes Participation on academic blogs fed from the media
+    Media
+Public at large
+   Maximise visibility and increase
+ interest in the project’s findings among the
+general public and non academic audiences
+   Social media: creation of EqualStrength twitter account, where dissemination products and relevant project updates will be posted Tweets will be amplified through the partners’ institutional accounts and newsletters
+   Academics Policymakers Civil society org Media
+Public at large
+   Increase awareness about EqualStrength findings and share relevant materials produced
+ The data management plan to be submitted on month 6 will specify the schedule and modalities of data release, taking into consideration the privacy of informants, the benefits of open data, and the protection of project generated analysis As announced in the Open Science section in the Excellence part of this application, the Consortium is aware of the importance of early sharing results as well as any other research material that will allow the replication of our results (program and syntax, research protocols) The experimental research design and experimental research tools will be pre registered accordingly to allow for replication and to avoid misusing our evidence (serendipity) or generating post hoc hypotheses after results are known (harking) At the same time, we acknowledge the labour  intensive nature of the data collections in WP2, WP4, and WP5 To guarantee an adequate time frame for publishing results generated as part of EqualStrength, we propose an embargo from the end of the project before the data will be deposited in digital repositories This option is a fair compromise between ensuring intellectual ownership of the key results of the project and promoting open science practices
+Intellectual Property Rules (IPRs) will be addressed in the Consortium Agreement and results and data will belong to the partners generating them The project adopts the Creative Commons approach to copyright When
+PART B   23
+
+
+possible, we will encourage the open development of our outputs and provide explicit permission to redevelop with attribution
+224 Continued impact of EqualStrength after month 36
+Many of the wider scientific and societal impacts mentioned in section 212 will occur at or after month 36 With regard to EqualStrength’s scientific impacts, we expect to publish most of the articles in high impact journals between 12 and 36 months after the end of the project This is because the publication timelines of academic journals are considerably slow, and in many cases authors wait up to 2 years from submission until final publication (assuming that the article is not desk rejected) Likewise, follow up research projects will likely occur after month 36, as the members of the consortium may find it difficult to invest enough time in writing high quality research proposals during the duration of this project However, we will apply for impact funding opportunities between month 24 and 36 This type of funding is available to academics in most research institutions, and its objectives are to maximise the societal impact of an existing project and support knowledge exchange activities
+In terms of societal impacts, the stakeholder engagement as well as the dissemination and communication activities conducted during the project will allow us to consolidate knowledge exchange networks with policymakers and civil society organisations that will remain active after month 36 These networks will facilitate future collaborations between the consortium and non academic partners in the topic of this call, which will sustain the impact of the EqualStrength beyond the lifespan of the project
+PART B   24
+
+
+23 Summary
+KEY ELEMENT OF THE IMPACT SECTION
+  SPECIFIC NEEDS
+   EXPECTED RESULTS
+   D & E & C MEASURES
+   What are the specific needs that triggered this project?
+Structural discrimination and racism towards Muslim, Black and Roma minorities in European countries are difficult to measure and poorly understood
+Knowledge of intersectional discrimination and outgroup hostility is limited; some axes of inequality (eg sexual orientation; family status) are rarely studied in combination with ethnic background
+Theoretical approaches need contextualisation: local and national policies and institutions may mitigate or exacerbate minorities’ exposure to disadvantage
+Current approaches neglect the cumulation of risks across settings, multiple stigmatised statuses, over time, and within families
+  What do you expect to generate by the end of the project?
+New knowledge exchange networks with policymakers and NGOs working on the areas of social inclusion and anti discrimination
+New interdisciplinary academic networks
+Dataset with the results of three linked field experiments measuring cumulative discrimination (across life domains and from an intersectional lens) against Muslim, Black and Roma minorities in 9 European countries
+Dataset on indicators of prejudice and hostile behaviour with representative samples of 9 European countries’ populations
+Dataset on minorities’ interpretation of discriminatory situations, coping strategies and policy preferences in 9 European countries
+Training of young researchers (postdoctoral and predoctoral)
+  What dissemination, exploitation and communication measures will you apply to the results?
+Dissemination products
+  Datasets deposited in trusted digital repositories
+  Working papers, thematic reports and policy briefings published in the project’s website and websites of the institutions of the
+consortium
+  Journal articles published in open peer reviewed journals
+  Op eds, blog posts and commentaries published in specialised
+and general media outlets
+Communication activities
+  Regular updates on project’s website
+  Academic conferences, workshops and seminars
+  Stakeholder workshop to discuss project’s findings and explore
+avenues for future collaboration
+  Media outreach via press releases
+  Social media outreach via Twitter and newsletters
+Exploitation
+Use of EqualStrength’s datasets by scholars, policymakers and civil society organisations
+ PART B   25
+
+
+ TARGET GROUPS
+  OUTCOMES
+  IMPACTS
+   Who will use or further up take the results of the project? Who will benefit from the results of the project?
+Academics from different social sciences disciplines working on ethnic and racial inequalities, racism and discrimination
+Policymakers at the local and national level with portfolios on the areas of social inclusion and anti discrimination
+NGOs (national and European) working for the effective inclusion of ethnic, racialised and religious minorities, or providing advice to policymakers on social inclusion
+Trade associations, including landlords’ and employers’ associations, and relevant trade unions (eg representing preschool teachers and pedagogical staff)
+National and international media outlets
+Public at large, especially the population who self identify as belonging to an ethnic, religious or racialised minority
+  What change do you expect to see after successful dissemination and exploitation of project results to the target group(s)?
+Scientific outcomes
+Contribution to scholarly and methodological debates on discrimination and racism, particularly on the cumulative nature of discrimination, its contextual determinants and the intersectionality of discrimination and prejudice
+Societal outcomes
+Making policymakers aware of the importance of experimental evidence on discrimination and prejudice
+Collaborations with national and international NGOs to disseminate the project’s findings and provide evidence based research that can be used on their outreach campaigns
+Receiving media coverage of the project’s public  interest findings
+  What are the expected wider scientific, economic and societal effects of the project contributing to the expected impacts outlined in the respective destination in the work programme?
+Scientific impacts
+  Ground breaking evidence base knowledge on discrimination, cumulative disadvantage, and prejudice and on national and local policies to counteract them
+  Advance knowledge on research methods to study discrimination
+  Launch and consolidation of the careers of a new generation of researchers
+  Establishment of new interdisciplinary networks focused on the topics of the call
+Societal impacts
+  Raise public awareness on structural racism and discrimination
+  Inform public debates on racism, ethnic inequalities and
+discrimination
+  Establishment of strong knowledge exchange networks between
+policymakers, NGOs that translate into follow up projects
+  Partnership with policymakers or NGOs to implement interventions, policies and campaigns to reduce discrimination
+and racism, and/or mitigate their impacts
+ PART B   26
+
+                                                                                                                          
+3 Quality and efficiency of the implementation 31 Work plan and resources
+EqualStrength will run for 36 months It comprises 5 WPs that feed into each other, as well as a management and coordination WP Chart 1 summarises the overall distribution of effort by WP for the duration of the project and indicates the major milestones It reflects the synergy between WP tasks achieved and crucial moments for the successful development and progress of the project The total count of person months (4395) shows the serious commitment of partners to reach the ambitious goals of EqualStrength WP1 (Management and coordination) and WP6 (Impact and dissemination) extend for the duration of the project as proper coordination and dissemination of results at various stages of research are crucial from month 1 to 36 WP2 (Measuring cumulative discrimination with field experiments across settings) extends from month 2 to 33, reflecting the length of time and effort required to complete field experiments WP3 (Policy and institutional contexts of discrimination) extends from month 6 to 30, while WP4 and WP5 which focus on the majority and the minority populations, respectively extend from month 2 to 28 The last 6 months of EqualStrength are fully devoted to the publication of dissemination materials (eg country reports, policy recommendations) and communication activities (eg Stakeholders Workshop, press releases) targeting the various project’s audiences
+Chart 1 Milestones and deliverables across WPs and months
+      WP1 WP2
+WP3 WP4
+WP5 WP6
+        D11
+                      M1
+                            D12             D61 D62
+                                                                        D21 D31 M2 D41 D42 M2 D51 D52
+                        M3 D13
+                                                D32 M4 D43 D44 M4 D53
+            D45 D46
+            D54 D55
+                        D56 D57
+                        M5 D22 M6 D33 D34 D47 D58 D63
+            D23
+        M7 D14         D48 D49
+                        D35 D36 D410 D411 D59
+                    D24 D25 D26 D37 D38 M8 D64
+         M9
+         D27
+         D28
+        D65 D66 D67
+                M10 D15
+D68 D69 D610
+        1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+     Interim and Final Report
+   Conferences and meetings
+   Data deliverable
+  Milestones (M)
+ A graphical representation of the project’s components and their interactions is presented in Chart 2 The chart highlights the relevant role that the Advisory Board and Stakeholders Group will play from month 1, along with the Management and Coordination Team (MCT)  based at UCD  and the Research Committee (formed by the MCT, WP leaders, and members of the country teams who are not leading a WP) The Advisory Board will be composed
+PART B   27
+
+
+by 4 academics from different disciplines, a knowledge exchange expert, and members of two NGOs and an European public body, ie Prof Maria Sobolewska (University of Manchester), Professor Mirna Safi (Sciences Po), Prof Katharine Donato (Georgetown University), Prof Eva G T Green (University of Lausanne), Jacqueline Broadhead (Director of the Global Exchange on Migration and Diversity, University of Oxford), Ojeaku Nwabuzo (European Network Against Racism), Dorde Jovanovic (European Roma Rights Centre), and a representative of the EU Fundamental Rights Agency The Advisory Board will be continuously accessible, contribute disciplinary guidance, advise on engagement, and review drafts relevant to their expertise The Stakeholders Board will include policymakers (eg Coalition of Cities against Racism), NGOs, and other civil society actors Its role will be to provide policy relevant advice and facilitate engagement and knowledge exchange with non academic audiences in the countries of the consortium
+ Chart 2 Graphical representation of the project’s components
+ Tables for section 31
+Table 31a List of work packages
+1 Management and coordination 1 UCD
+2 Measuring cumulative 4 UU
+discrimination with field
+experiments across settings
+3 Policy and institutional 6 VUB
+contexts of discrimination   A
+multilevel approach
+4 Prejudice and xenophobia 3 UvA
+among the majority population
+6 Impact and dissemination 2 UOXF
+385 1 36 1917 2 33
+493 6 30 637 2 28
+289 1 36
+  Work package No
+   Work Package Title
+   Lead Participant No
+   Lead Participant Short Name
+   Person  Months
+   Start Month
+   End month
+                         5
+  Perceptions of racism and discrimination: minorities’ policy preferences and coping strategies across domains
+    2
+  UOXF
+   674
+    2
+   28
+        PART B   28
+
+
+Table 31b Work package description
+Lead participant and starting and end date of each WP are shown in table 31a Participants involved in each WP and their efforts are shown in table 31f
+1
+Management and coordination
+WP1Objectives:
+11 Monitor progress and ensure coordination across WP leaders and country teams 12 Provide technical expertise across different WPs
+13 Establish, coordinate, inform and collect feedback from the Advisory Board
+14 Creation and maintenance of project website
+15 Coordination and submission of Interim and Final Reports
+16 Coordinate Kick off and Final in person conferences
+17 Ensure compliance with standards for research ethics
+18 Develop and monitor the Data Management Plan (DMP)
+19 Manage Intellectual Property Rights resulting from the project
+WP1Description of work:
+The management of a ten institution consortium requires consistent and structured coordination with WP leaders, country teams, partner administrative support, project officers and relevant financial auditing agencies This entails a mixture of technical and research support, financial compliance, ethics guidance and data management
+The first objective is to monitor the overall progress of the project, adhering to the clearly defined and agreed  upon timelines The Project Leader (Mathew Creighton), postdoctoral researcher (Daniel Capistrano), and the UCD based PhD and Project Manager constitute the Management and Coordination Team (MCT)
+Task 111 The Project Leader will form the Research Committee in month 1 The Research Committee will facilitate the coordination activities across the WPs, and dissemination of the findings and communication activities The Project Leader will ensure regular communication between the members of the consortium by organising quarterly video calls between relevant WP leaders This will maximise data exchange and ensure that deadlines are met
+The second objective is to provide technical support across work packages
+Task 121 involves the recruitment of a doctoral candidate into the PhD programme in Complex Systems and Computational Social Science to engage in best practices for online survey experiments and automated approaches to field experiments This is an area of interest at the intersection of computational social science and more traditional, probability based sampling/data collection, which offers a clear academic advantage that can be shared across WPs
+The third objective is to establish, coordinate, inform and collect feedback from the Advisory Board
+Task 131 The Advisory Board will be convened to broaden the project’s expertise and ensure early engagement with key audiences
+Task 132 Ensure communication between the Research Committee and Advisory Board
+The fourth objective is the creation and maintenance of the project website, which is key to support the project’s impact and dissemination strategy, which is the focus of WP6 In addition to offering a reference and platform to share and understand the project, the website will be the key access point for archived material related to the progress, ethics and the Data Management Plan (DMP)
+Task 141 Development and hosting of a well presented website with clear and accessible design elements that reflect best practices in terms of inclusive design
+Task 142 Develop the submission and dissemination protocols for an accessible repository of summary reports, annual financial documents (within legal guidelines), all ethics documentation and the project’s Data Management Plan (DMP)
+The fifth objective is the coordination and submission of the Interim and Final Reports
+Task 151 Coordination of Interim Report 1
+Task 152 Coordination of Interim Report 2
+Task 153 Coordination of Final Report
+The sixth objective is the organisation of the Kick off and Final conferences that will offer a much needed in  person interaction for the consortium partners The MCT, in coordination with the Budapest Institute, will organise two in person conferences held at month 3 and 30 in Budapest
+   Work Package number
+   Work package title
+                     PART B   29
+
+
+Task 161 Organisation of Kick off Conference, which will ensure clarity regarding financial and administrative requirements, enable in depth discussions of the project’s topics, and facilitate the organisation of a cohesive dissemination and communications strategy
+Task 162 Organisation of the Final Conference, to share findings from the field, present reports, and plan for the post project continuity in terms of impact and dissemination, the core of WP6
+The seventh objective is the coordination of ethics requirements, including the compulsory ethics deliverables Ethics is a core concern of data collection that engages with potentially vulnerable groups The primary ethics responsibility remains at the institution where the fieldwork is being conducted, but the MCT and the Research Committee will offer advice and establish best practices when an ethical consideration includes multiple work packages
+The eighth objective is related to data management The MCT, in coordination with the Research Committee, will develop a complete Data Management Plan (DMP) The DMP will include (1) a data description and collection or re use of existing data, (2) documentation and guarantee of data quality, (3) details on the storage and backup during the research process, (4) description of the Legal and ethical requirements and relevant codes of conduct and, finally, (5) guidelines for data sharing and long term archival needs
+Task 181 Development of a written DMP by month 6, which will be archived on and available through the project website, hosted at UCD
+The ninth objective is management of Intellectual Property Rights (IPRs) resulting from the project
+Task 191 Addressing the IPRs in the Consortium Agreement
+2
+Measuring cumulative discrimination with field experiments across settings
+WP2Objectives:
+21 Measure cumulative discrimination levels across settings
+22 Compare cumulative discrimination across countries
+23 Examine intersectional discrimination (by gender, parental and flexible employment status) 24 Identify indirect discrimination
+25 Compare employment discrimination longitudinally
+WP2Description of work:
+The first objective is to measure systemic exposure to discrimination across different settings (employment, housing, childcare) and calculate a measure of cumulative discrimination Both conceptually and methodologically, our operationalisation of discrimination as a systemic and cumulative process improves on current scholarship that focuses on single events and settings in isolation
+Task 211 Reviewing the literature on discrimination, distinguishing between the different settings where discrimination takes place
+Task 212 Harmonising the research design for the linked field experiments across countries and settings and preparing the experimental protocols and materials (CVs, cover letters, email inquiries)
+Task 213 Collecting data in 9 countries, tracking the municipality and neighbourhoods where inquiries to employers, landlords and childcare administrators are sent (to connect with WP3 data)
+Task 214 Harmonising the resulting dataset, with comparable callback indicators across settings and countries Task 215 Analysing the data (calculating discrimination ratios by setting and comparing discrimination across settings in each country) and producing the papers listed as deliverables
+The second objective is to compare setting specific discrimination across countries WP2 will deliver the most ambitious field experiment on discrimination ever conducted, for both its geographical scope (9 countries, including Hungary and the Czech Republic, thus redressing the Western bias of the available literature) and cross setting focus We will (1) compare levels of discrimination across countries characterised by widely different institutional arrangements, economic conditions, immigration histories and welfare policies; (2) identify whether levels of discrimination are consistent across domains; and (3) calculate a composite ethnic discrimination score by country that averages discrimination ratios across settings, to obtain a measure of cumulative, cross setting discrimination
+Task 221 Merging field experimental data across all participating countries
+Task 222 Analysing the data and producing the papers listed as deliverables
+The third objective is to examine discrimination in access to employment, housing and childcare from an intersectional perspective We do so by focusing on differences in discrimination levels by gender, parental status
+           Work Package number
+    Work package title
+                  PART B   30
+
+
+and flexible employment
+Task 231 Reviewing the literature on intersectional discrimination, distinguishing between various forms of intersectionality
+Task 232 Analysing the data with a focus on the relevant interaction effects (ie, between gender and ethnic background, parental status and ethnic background and flexible employment and ethnic background) and producing the papers listed as deliverables
+The fourth objective is to examine the interrelated dependencies between unfair treatment in one setting and the outcomes attained in another We will map the conceptual differences in the use of different terms (eg indirect discrimination, structural discrimination, institutional discrimination, systemic discrimination) and the methodological challenges that arise when trying to disentangle one type of discrimination from the other, with a focus on indirect forms of discrimination This is necessary to examine the processes through which minorities experience unequal access to opportunities over and beyond direct individual discrimination on single settings Task 241 Reviewing the literature on indirect, structural and institutional discrimination
+Task 242 Analysing the data with a focus on indirect forms of discrimination and producing the papers listed as deliverables
+The fifth objective is to compare changes (or stability) in levels of ethnic discrimination over time For this analysis we will focus on the domain of employment only Between 2016 and 2018, several of the principal investigators have collected the first large scale and cross nationally harmonised field experimental data on ethnic discrimination in five European labour markets, as part of the Horizon 2020 funded GEMM project A sub sample of the GEMM data will be merged with part of the newly collected field experimental data from WP2 to measure exposure to cumulative discrimination over time We will focus on the four European countries (Germany, Netherlands, Spain, UK) and the origin groups (Turkish, Moroccans, Pakistani) for which comparable field experimental data are available in both the GEMM project and WP2
+Task 251 Harmonising the design of the employment field experiment with the design of the GEMM field experiment and calculation of callback rates
+Task 252 Merging the data collected in Germany, the Netherlands, Spain and the UK with the GEMM data collected in 2016 18 in the same countries and targeting the same ethnic groups
+Task 253 Analysing the data with a focus on over time changes in exposure to discrimination and producing the papers listed as deliverables
+3
+Policy and institutional contexts of discrimination   A multilevel approach
+WP3Objectives:
+31 To examine the role of local level contextual factors on rental, hiring and childcare discrimination
+32 To investigate how discrimination levels in both hiring, rental and childcare access differ according to existing policies and legislation at the national level
+33 To compare discrimination levels in hiring, rental and childcare access according to the gendered family policies of different welfare state regimes
+34 To examine whether the effects of the above mentioned policy and institutional factors differ across domains and/or between minority groups
+WP3Description of work:
+The first objective is to analyse to which extent rental, hiring and childcare discrimination  as measured with correspondence tests in WP2  differs according to contextual factors at the local level In the selection of contextual factors, we rely on theories and empirical studies about anti immigrant attitudes, interethnic relations and discrimination An elaborate discussion of all theories and studies, their mechanisms and how they will be measured is outside the scope of this proposal, but we will examine contextual factors in four categories: 1) Socio demographic factors, such as local population size, the share, composition and type of ethnic minority groups in the municipality and local residential segregation indices; 2) Socio economic factors, such as local levels of unemployment and median income; 3) Supply side factors, such as (social) housing supply, vacancy rates on the labour market and childcare facilities; 4) Socio cultural factors, such as aggregated attitudes towards migrants and minorities as measured in WP4 For each category of indicators, the objective is subdivided into three tasks
+Task 311 is to review the literature on institutional effects on discrimination and apply them to the local level Task 312 is to assemble and manage the necessary data at the municipality level across the nine countries
+              Work Package number
+    Work package title
+             PART B   31
+
+
+involved These municipality data will be translated into standardised indicators and  if necessary  new indicators will be constructed The new dataset will be merged with the correspondence tests data from WP2 Task 313 is to examine both linear and non linear associations of municipality indicators with discrimination rates on the housing and labour market and in childcare through multilevel analyses
+The second objective focusses on the policy context of discrimination at the national level in order to understand how discrimination in hiring, housing and childcare differ according to existing policies and legislation on anti  discrimination, inclusiveness and multiculturalism The correspondence test data on discriminatory behaviour from WP2 will be cross nationally compared against the background of the different national policies towards minorities and discrimination We will consider policy inclusiveness (as conceptualised and measured with the Migrant Integration Policy Index MIPEX  of 2020) and multiculturalism (as conceptualised and measured with the Multicultural Policy Index  MCI  of 2020)
+Task 321 is to review the literature on policy inclusiveness and multiculturalism and their (different) potential effects on discrimination in housing, hiring and childcare
+Task 322 is to describe existing policies towards minorities and discrimination by means of MIPEX and MCI Since MCI is not yet available for Czechia and Hungary, this indicator will be constructed with support from Charles University (CZ) and Budapest Institute (HU)
+Task 323 is to compare discrimination levels  as measured in WP2  according to the policy dimensions of the previous task
+The third objective is to measure the effects of family policies in different welfare state regimes on discrimination in housing, labour market and childcare National family and gender policies play a crucial role in countering institutionalised discrimination, eg labour market participation crucially depends on the family situation and exposure to discrimination in domains that affect their activation, eg access to childcare services and housing Several policy dimensions will be considered based on the OECD Social Expenditure and Family Dataset
+Task 331 is to review the literature on gendered family policies of different welfare state regimes and their potential consequences for ethnic discrimination of families
+Task 332 is to describe the current family policies of the nine countries involved in the project, with a special focus on the labour and housing market and childcare, using the OECD data as a starting point
+Task 333 is to compare the discrimination levels as measured in WP2 across to the policies of the previous task
+The fourth objective is to examine the extent to which the above mentioned policies and institutional effects at local and national levels differ between life domains and/or minority groups We will investigate whether institutional factors and policies are consistent across the housing, labour market and childcare domains In addition, contextual effects might also differ with respect to discrimination against Muslim, Black and/or Roma minorities This results in task 341: writing an overview report which integrates and compares the insights of the three previous WP objectives
+4
+Prejudice and xenophobia among the majority population
+WP4Objectives:
+41 To examine how prevalent prejudice, xenophobia and negative attitudes towards different minority groups are among the majority population in different countries
+42 To investigate the extent to which the level of prejudice against different minority groups varies across life domains
+43 To apply an intersectional approach to the study of prejudice
+44 To examine how prejudice and xenophobic attitudes translate into behaviour (eg hate crimes)
+WP4Description of work:
+The main objective of WP4 is to study the prejudice and xenophobia of the majority populations from a cross  national and intersectional perspective, taking the target of hostility as the starting point One of the main contributions of WP4 innovative research design is the measurement of prejudice with different instruments, ie first, attitudinal indicators used in secondary survey data; secondly, social distance indicators derived from a conjoint survey experiment, where respondents evaluate a ‘target’ minority family which varies in the ethnicity, religious affiliation, and sexual orientation of their members; thirdly, national statistics on hate crime; and finally,
+               Work Package number
+    Work package title
+           PART B   32
+
+
+an experimental avoidance game measuring respondents’ reacting times to armed and unarmed targets WP4 has four major objectives:
+The first objective is to examine how levels of prejudice towards different minority groups vary among the majority population WP4 will analyse cross national secondary survey data on racism, xenophobia and attitudes towards minorities; that will provide contextual indicators on attitudes towards minorities at the municipality level, which will then be included in WP3 contextual dataset
+Task 411 Data inventory of cross national and national surveys on racism, xenophobia and attitudes towards minority groups
+Task 412 Merging data on attitudes towards minorities from existing European and national surveys covering key life domains, to create indicators at the lowest geographical level
+Task 413 Connect attitude indicators of task 412 to the municipality indicators collected in WP3 and to field experimental data (WP2)
+Task 414 Investigate over time change in attitudes (eg in relation to the refugee crisis of 2015 or the Covid19 pandemic)
+The second objective is to investigate the hierarchies of prejudice in multiple countries and across life domains, based on primary survey data including a conjoint experiment Relying on the ‘fictitious family’ presented in WP2, we study how families’ characteristics (ethnicity, race, sexual orientation and religious affiliation of their members) condition respondents’ perceived social distance towards those families in different social settings Task 421 Data inventory of cross national and national conjoint experiments measuring prejudice, to not only identify individual studies focusing on one country and/or domain, but to enlarge both the geographical focus as well as the minority groups addressed in these studies
+Task 422 Conduct an online survey with representative samples of the population of 9 countries, which will include different indicators aimed at capturing respondents’ prejudicial attitudes (general attitude questions and a conjoint survey experiment to measure social distance)
+The third objective is to apply an intersectional approach to the study of prejudice, which allows us to go beyond the identification of ethnic hierarchies in each of the 9 countries In doing so, we will examine how minority’s ethnicity and religion combine with other axes of inequality (gender, sexual orientation, migrant origin) to shape respondents’ evaluations of minority families (or family members) in different social settings We will also examine how respondents’ characteristics affect their evaluations
+Task 431 Analyse how respondents’ characteristics shape their answers to the attitudinal questions and conjoint experiment
+Task 432 In the conjoint experiment, investigate how respondents’ prejudicial beliefs are shaped by different combinations of minority families’ characteristics
+Task 433 Compare intersectionality of prejudicial attitudes across domains with the results of field experiments in WP2
+The fourth objective is to examine how prejudice and xenophobic attitudes translate into specific behaviours, including hate crimes Here, the focus will be to examine how members of the majority behave towards members of minority groups, with hate crimes being one of the most extreme behavioural manifestations of prejudice Next to the minority groups mentioned above, we also include minorities particularly affected by hate crimes such as refugees, Roma, and, given the recent rise in Anti Asian hate crimes due to the Covid 19 pandemic, East Asian minorities To assess this empirically, we make use of an experimental avoidance task embedded in the cross  national survey mentioned in objective 42
+Task 441 Review the literature on hate crime
+Task 442 Assemble data from existing government statistics on hate crimes against the specified minority groups in the countries covered in this project Data collection should focus on at least the last 10 years to analyse how recent events, such as the 2015 refugee crisis, or the Covid 19 pandemic, are reflected in the number of hate crimes towards specific minority groups
+Task 443 Conduct an online avoidance task in which participants are confronted with potentially dangerous targets and are asked to decide under time pressure whether to approach or avoid the target   with the targets belonging either to the majority group or to the respective minority groups (embedded in cross national survey of task 422)
+5
+                 Work Package number
+       Work package title
+Perceptions of racism and discrimination: minorities’ policy preferences and coping strategies across domains
+    PART B   33
+
+
+WP5Objectives:
+51 To identify the individual and contextual correlates of minorities’ perceptions of personal and group discrimination and hate crime
+52 To analyse the relationship between minorities’ perceptions of discrimination reported in surveys and ‘objective’ measures of discrimination provided by field experiments across social domains in European countries 53 To analyse the conditions under which minorities are more likely to attribute majority group’s behaviour to prejudice or discrimination, as well as their preferred coping strategy to manage those behaviours
+54 To analyse minorities’ degree of support for race or ethnic targeted policies and interventions
+55 To examine the extent to which the Covid 19 pandemic has had a negative impact on minorities’ experiences and perceptions of discrimination
+56 To analyse the relationship between minorities’ perceptions of discrimination and subjective wellbeing in different national contexts
+WP5Description of work:
+WP5 focuses on minorities’ perceptions of personal and group discrimination and hate crime, including microaggressions; their coping strategies; and their policy preferences to reduce ethnic and racial inequalities that are the product of cumulative discrimination As in WP2 and WP4, the focus is on Muslim, Black and Roma minorities in nine European countries (UK, Ireland, the Netherlands, Belgium, Germany, Spain, Switzerland, Hungary, and Czech Republic) Three different types of data will feed the research design and empirical analysis of WP5: firstly, data from exploratory focus groups with members of ethnic, racial, and religious minorities in the countries of the consortium; secondly, cross national secondary survey data (and, when available, national survey data) with large enough minority samples and a module on discrimination and/or hate crime; and finally, primary data from a cross national survey
+The first objective is to identify the individual and contextual correlates of minorities’ perceptions of personal and group discrimination and hate crime Based on cross national and national survey secondary data, the aim is to increase the knowledge about the individual and contextual factors that increase the propensity to report in surveys direct experiences of discrimination, general perceptions of discrimination against respondents’ (ethnic) group, and hate crime, as well as the reasons for those (eg ethnic , racial , or religion based discrimination and hate crime) Task 511 Data inventory of cross national and national surveys over sampling ethnic and/or migrant communities which include modules on discrimination, hate crime and/or microaggressions
+Task 512 Merging data on perceptions of discrimination and hate crime from existing surveys to create indicators (if possible) at the municipality level, which will feed WP3
+Task 513 Analysis of differences in perceptions and reasons for discrimination and hate crime between and within minority groups in relevant across social domains
+Task 514 Analysis of the role of local level contextual factors (from WP3 and WP4) on perceptions of discrimination and hate crime
+The second objective is to improve the understanding of the relationship between minorities’ perceptions of discrimination reported in surveys and ‘objective’ measures of discrimination provided by field experiments across social domains in European countries Here the focus will be to compare the field experimental data on discrimination in housing and the labour market collected in WP2 with minorities’ perceptions and experiences of discrimination in those domains as reported in secondary survey data
+Task 521 Analysis of field experimental data collected in WP2 with cross national secondary survey data on perceptions of discrimination
+The third objective is to improve our understanding about the conditions under which minorities are more likely to attribute majority group’s behaviour to prejudice or discrimination, as well as their preferred coping strategy to manage those behaviours It is based on a vignette study, where minority respondents will be asked to interpret a range of realistic scenarios depicting interactions between members of the majority and minority groups as microaggressions or discriminatory situations
+Task 531 Refinement of research design of vignette study based on literature review and input from focus groups with minority participants and stakeholders
+Task 532 Design of the social networking sites’ advertising campaign to recruit survey minority participants for the cross national online survey
+Task 533 Survey data collection, cleaning and preparation for analysis
+Task 534 Data analysis
+The fourth objective is to increase the knowledge of minorities’ degree of support for race or ethnic targeted policies and interventions
+Based on a conjoint survey experiment, minority respondents will evaluate different policies aimed at reducing or mitigating the consequences of discrimination and racism in terms of perceived fairness and effectiveness
+               PART B   34
+
+
+Task 541 Refinement of research design of conjoint experiment based on literature review and input from focus groups with minority participants and stakeholders
+Task 542 Survey data collection, cleaning and preparation for analysis
+Task 543 Data analysis
+The fifth objective is to investigate the extent to which the Covid 19 pandemic has increased negative minorities’ perceptions of discrimination
+The minority survey will include questions about the perceived impacts of the pandemic on minorities’ experiences of personal and group discrimination and racism
+The sixth objective is to examine the impact of perceived discrimination on minorities’ self reported wellbeing In order to analyse this relationship, we will rely on cross national secondary survey data such as the EU MIDIS II, which includes modules on discrimination across different life domains, and questions on respondents’ mental health and wellbeing
+6
+Impact and dissemination
+WP6Description of work:
+The first objective is to develop a comprehensive plan for dissemination and exploitation including communication activities
+Task 611 is to develop a plan for dissemination and exploitation including communication activities
+Task 612 is the constitution of the Stakeholders Group, which will include policymakers and representatives of NGOs (and trade associations, when possible)
+The second objective is to ensure that the input of stakeholders’  in particular, the priorities and views of policymakers and NGOs advocating for minority populations  informs the research design of WP2, WP3, WP4 and WP5
+Task 621 Creation of a stakeholders database in collaboration with country teams
+Task 622 In collaboration with the Stakeholders Group and WP leaders, development of a survey questionnaire to be distributed among the list of stakeholders included in the database Task 623 Analysis of stakeholders input data
+Task 624 Organisation of online meetings with Stakeholders Group to inform about progress and gather feedback
+Task 625 Organisation of workshop with stakeholders from different countries
+The third objective is to ensure the effective dissemination and communication of the progress and results of EqualStrength to a variety of audiences The WP6 leader will coordinate with the Project leader, WP leaders, Advisory Board and Stakeholders Group to produce and release the following dissemination products: country reports (Task 631), policy briefings about discrimination in the housing market (Task 632), labour market (Task 633), and childcare (Task 634); reports on the role of institutional factors on discrimination (as measured in field experiments) (Task 635) and on minorities’ policy preferences(Task 636) Communication of The project's main findings will be communicated to the media via press releases and press notes (Task 638)
+The fourth objective is to coordinate and facilitate the continuous engagement of consortium members with the targeted audiences
+Task 641 Organise meetings with the Research Team and the Stakeholders Group to coordinate engagement activities with stakeholders
+           Work Package number
+   Work package title
+     WP6Objectives:
+61 Develop a comprehensive plan for dissemination and exploitation including communication activities
+62 Ensure that the input of stakeholders’  in particular, the priorities and views of policymakers and NGOs advocating for minority populations  informs the research design of WP2, WP3, WP4 and WP5
+63 Coordinate the effective dissemination and communication of project’s progress and results to a variety of audiences
+64 Coordinate and facilitate the continuous engagement of consortium members with the different audiences
+                  PART B   35
+
+
+Table 31c List of Deliverables
+D11 Launch
+D12 Data Management Plan
+D13 Interim Report 1
+D14 Interim Report 2
+D15 Final Report
+D21 Research design WP2
+D22 Data cumulative discrimination
+across settings
+D23 Codebook and technical report
+D24 Paper cumulative discrimination across settings
+D25 Paper cumulative discrimination across countries
+D26 Paper on ethnicity and parental status interaction
+D27 Longitudinal dataset employment discrimination
+D28 Paper cumulative discrimination over time
+WP1 UCD WP1 UCD
+WP1 UCD WP1 UCD WP1 UCD WP2 UU
+WP2 UU WP2 CUNI WP2 UU
+WP2 UCD
+WP2 UU
+WP2 UU
+WP2 UU
+WP3 VUB
+WP3 VUB
+WP3 VUB WP3 VUB
+WP3 VUB WP3 BI WP3 VUB
+WP3 VUB
+WP4 UvA
+WP4 UvA
+WP4 UvA WP4 UvA
+WP4 UvA WP4 CSIC
+WP4 DeZIM
+WP4 CUNI WP4 UvA WP4 UvA
+WP4 UvA WP5 UOXF
+OTHER PU 1 DMP PU 6 R PU 14 R PU 26 R PU 36 R PU 12
+DATA PU 24 R PU 25 R PU 30
+R PU 30
+R PU 30
+DATA PU 32
+R PU 33
+R PU 12
+R PU 18
+DATA PU 24 DATA PU 24
+R PU 28 R PU 28 R PU 30
+R PU 30
+R PU 12
+R PU 12
+DATA PU 18 DATA PU 18
+R PU 19 R PU 19
+R PU 24
+R PU 26 R PU 26 R PU 28
+R PU 28 DATA PU 12
+    Delivera ble
+   Deliverable name
+     Work package number
+   Short name of lead participant
+     Type
+   Dissemination level
+     Delivery date
+(in months)
+                                                                                            D31 Research design WP3
+D32 Research design inclusiveness
+and multiculturalism policies
+D34 Data national policies
+D33 Data municipality factors
+D35 Paper discrimination and
+prejudice across municipalities
+D36 Paper national policy effects
+D37 Paper gendered family welfare state regime effects
+D38 Overview report policy and institutional effects
+D41 Research design online survey
+D42 LitRev: from social distance to
+hate crimes
+D43 Data municipality attitudes
+D44 Data conjoint experiment
+D45 Paper: intersectional prejudice
+D46 Report: Hate crime data
+D47 Paper: Avoidance task   results
+predictor for hate crimes
+D48 Paper: Conjoint results   cross 
+national patterns
+D49 Paper: Conjoint results   Covid
+D410 Paper: Prejudice and Discrimination
+as
+                                                                                                                              D411 Paper: Overtime trends prejudice
+D51 Data inventory perceptions discrimination and hate crime
+              PART B   36
+
+               
+       D52 Research design minority survey WP5 UOXF
+D53 Dataset minorities WP5 UOXF
+D54 Paper: impact of discrimination WP5 UOXF
+on wellbeing
+D55 Paper: perceptions of WP5 CSIC
+discrimination
+D56 Paper conjoint minorities WP5 UOXF
+D57 Paper covid 19 minorities WP5 UOXF
+D58 Paper vignette minorities WP5 DeZIM
+D59 Paper: discrimination indicators WP5 UOXF
+D61 Plan for dissemination and WP6 UOXF exploitation
+D62 Stakeholders input summary WP6 UOXF
+D63 Policy briefing minorities' WP6 UOXF
+preferences
+D64 Stakeholders workshop WP6 UOXF
+D65 Policy briefing labour market WP6 UU
+D66 Policy briefing rental market WP6 UOXF
+D67 Policy briefing childcare facilities WP6 VUB
+D68 Report institutional effects WP6 BI
+D69 Country reports WP6 UCD
+D610 Press releases findings WP6 UOXF
+Table 31d List of milestones
+1 Kick off conference WP1 Refinement of research designs WP2, WP4
+R DATA
+R
+R
+R R R
+R
+R R R
+OTHER
+R R
+R
+R
+R DEC
+PU PU
+PU
+PU
+PU PU PU
+PU
+PU PU PU
+PU
+PU PU
+PU
+PU PU
+12 18
+20
+20
+22 22 24
+28
+6 6 24
+30
+34 34
+34
+36 36 36
+Meeting held
+D21, D41, D52 D13
+D43, D44, D53
+D22
+D33, D34 D14 Meeting held Meeting held D15
+                                                                                                                                Milestone number
+   Milestone name
+   Related work package(s)
+   Due date (in month)
+   Means of verification
+      2 and WP5
+3 First interim report
+End of primary survey data cleaning and
+4 preparation for analysis
+End of data collection in field experiments
+5 and preparation for analysis
+6 End of contextual data preparation
+7 Second interim report
+8 Workshop with Stakeholders
+9 Final Conference
+10 Final Report
+Table 31e Critical risks for implementation
+WP2, WP4, WP5 WP1
+WP4, WP5
+WP2 WP3 WP1 WP6 WP1 WP1
+3
+12 14
+18
+24
+24
+26
+30
+30
+36
+                                               Description of risk
+   Work package(s) involved
+   Proposed risk mitigation measures
+  Loss of staff 
+Low risk
+   All WPs
+  Measures to minimise risk: involvement of more than one researcher per institution team; most partners have experience in EU funded projects and knowingly agreed to participate This commitment will be reconfirmed before signing the Grant Agreement Regular online meetings will guarantee team building among junior staff members and a steady commitment to the project
+ Measures to mitigate consequences: the consortium will replace staff with partner(s) with a similar profile and expertise
+  PART B   37
+
+             
+  Failure to deliver high quality research within the planned time frame  Low risk
+    WP2, WP3, WP4, WP5
+    Measures to minimise risk: close monitoring of progress by WP leaders and the Research Committee
+ Measures to mitigate consequences: should a partner fail to fulfil its tasks, the Coordination and Management team (in collaboration with the Research Committee) will reassign the task to another consortium partner
+  Insufficient attention from targeted stakeholders  Medium risk
+   WP6
+  Measures to minimise risk: policymakers and NGOs personnel are typically very busy We will avoid overloading them with multiple tasks and to collect their input only for the tasks they are specifically interested in We have involved a few people with whom we have collaborated in the past, which guarantees mutual trust and commitment
+ Measures to mitigate consequences: We plan to engage with a sufficient number of stakeholders, so we are not particularly reliant on one of them
+   Failure to reach target sample sizes for the data collection tasks within the planned time frame  Low risk
+   WP2, WP4, WP5
+  Measures to minimise risk: participants have extensive experience in all the data collection methods Reaching the target sample is mainly a risk in WP2: we will focus on occupations with a high volume of vacancies and neighbourhoods and cities with a high availability of childcare services and housing agencies This implies a larger focus on urban areas but, given the higher barriers faced by ethnic minorities in rural areas and less diverse contexts, it most likely provides a conservative measure of cumulative discrimination Another possible risk is detection (ie the risk that employers, real estate agents or preschool administrators realise they are part of a field experiment) We will employ an unpaired design (one application per participant), which is known to mitigate the risk of detection In WP5, where the aim is to collect data among harder to reach minority groups, we have opted for non probability sampling via social networking, which guarantees more effective coverage
+ Measures to mitigate consequences: In case of detection in WP2, we will involve participants in the study and ask them to share their views on discrimination, thus avoiding open confrontation or the generation of negative emotions
+  Table 31f Summary of staff effort
+26 19 4 8 9 76 736 1 15 1 3 19 15 54 07521574 2 312 023016 1 31
+020666 1 39
+3520798 2 495 8151056 2 46 0 103 203 35 34 11 386
+0 20 0 75 11 11 396 0 20 0 7 7 3 37
+              WP1
+WP2
+WP3
+WP4
+WP5
+WP6
+Total Person  Months per Participant
+          University College Dublin (UCD)
+           University of Oxford (UOXF)
+           Universiteit van Amsterdam (UvA)
+           Universiteit Utrecht (UU)
+           Deutsche Zentrum für Integrations  und Migrationsforschung (DeZIM)
+           Vrije Universiteit Brussel (VUB)
+           Budapest Intézet (BI)
+           Univerzita Karlova (CUNI)
+           Consejo Superior de Investigaciones Científicas (CSIC)
+           Université de Lausanne (UNIL)
+           Total Person Months
+385 1917 493 637 674 289
+4395
+         PART B   38
+
+
+Table 31g ‘Subcontracting costs’ items
+60,240 Online Survey Data collection 9 countries conducted by Respondi Table 31h ‘Purchase costs’ items
+6,000 Travel to academic conferences as part of dissemination plan
+30,000 Facebook quota sample survey 8 countries (assuming an upper bound estimate of 3,750 euros per country)
+7,000 WP2   Specialist IT / data support for field experiments (automation, data scraping etc)
+2,200 Audit Fee (045% of total cost)
+2,000 WP2   Material for Field experiments (stamps, envelops, phones, etc)
+56,907
+6,000 Travel to academic conferences as part of dissemination plan
+10,000 Survey data collection conducted by external company (Roma sample) 4,000 IT support for field experiments (WP2)
+2,000 Material for field experiment (WP2)
+46,000
+32 Capacity of participants and consortium as a whole
+The EqualStrength consortium includes experts from 10 institutions based in 9 European countries The participants were selected for their research expertise, implementation capacity, geographical location, and gender balance (9 female and 7 male researchers) In this section we highlight five distinctive features of the EqualStrength consortium that represent its uniqueness:
+Interdisciplinarity: one of the most outstanding characteristics of the EqualStrength consortium is its interdisciplinarity The researchers involved in the proposal come from a wide breadth of fields, including sociology, economics, social psychology, and demography This interdisciplinarity reflects the fact that discrimination, racism and ethnic inequalities are topics that cut across academic disciplines, thus requiring
+  3 UvA
+      2 UOXF
+Cost (€)
+Description of tasks and justification
+    Subcontracting
+           Cost (€)
+Justification
+    Travel and subsistence
+    Equipment
+    Other goods, works and services
+   9707
+   Research assistants (casual contracts) after careful consideration, the Anthropology department at Oxford have advised to follow this option, which ensures that undergraduate students from the University of Oxford can assist in WP2 field work
+          Remaining purchase costs (<15% of pers Costs)
+   Total
+    7 BI
+      Cost (€)
+Justification
+    Travel and subsistence
+    Equipment
+    24,000
+   Meeting costs (opening and closing meetings) In agreement with the lead institution, the Budapest Institute agreed to host the opening and closing meetings in Budapest
+   Other goods, works and services
+          Remaining purchase costs (<15% of pers Costs)
+   Total
+  PART B   39
+
+
+innovative ideas and concepts that build on the strengths of each of them EqualStrength represents a robust research programme that will bridge debates across fields and will push scientific knowledge on structural racism and discrimination to the next level
+Methodological expertise: the consortium's methodological expertise is outstanding All scholars involved have extensive experience in survey design and implementation; experimental research methods applied to surveys, laboratories, and in the field; and sampling vulnerable and hard to reach populations EqualStrength thus represents a unique opportunity to expand the scholarly knowledge on structural racism and discrimination from a rigorous empirical perspective
+Academic rigour: EqualStrength brings together leading and emerging scholars on the topics of the call Their recent investigations have been published in highly ranked academic journals in their fields, which guarantees the high impact of the project’s scientific outputs Based on Google Scholar, the number of citations received by the members of the consortium combined amounts to 2,264 just in 2021
+Societal impact: academic insights without a policy perspective would mean that the research remains within academia and has little impact in the real world EqualStrength will not face this risk: the academics in the consortium have experience in disseminating their research to broader audiences and are part of knowledge exchange networks with policymakers, think tanks and international organisations, including the Race Disparity Unit (UK), the Office for National Statistics (UK), IOM, OECD, UN, or the European Union Agency for Fundamental Rights, to name a few They also have media experience, and their research has been cited in high  impact media outlets such as The Economist, The Washington Post, The Guardian, Financial Times, BBC News, WiredUK, Nature Podcast, El País or El Diarioes The leader of WP6 (Impact and dissemination) is based at University of OxfordMigration Observatory (ERSC prize for Outstanding Impact in Society) and she will make use of her broad experience on impact and dissemination activities to maximise EqualStrength’s societal impact
+Experience in management of research funds: the members of the consortium, including the Project leader (Mathew Creighton), have substantial managerial expertise Mathew Creighton is currently the
+Among the researchers involved in EqualStrength, there are two ERC grantees; three PIs of the EU funded projects GEMM, INGRID, WEBDATANET, and TEMPER; WP and country leaders in other EU funded projects, such as FamiliesAndSocieties, MAFE, or CEASEVAL; and Co Is or PIs of research projects funded by national research
+agencies in their respective countries
+In sum, EqualStrength is supported by a strong consortium in which all participants bring the necessary
+expertise to achieve the project’s objectives and expected impacts
+References
+Aboud, F E (2003) The formation of in group favouritism and out group prejudice in young children: Are they distinct attitudes? Developmental Psychology, 39(1), 48
+Alesina, A, Ferroni, M F, & Stantcheva, S (2021) Perceptions of racial gaps, their causes, and ways to reduce them (No w29245) National Bureau of Economic Research
+Auer, D (2022) Firing discrimination: Selective labor market responses of firms during the COVID 19 economic crisis PloS One, 17(1), e0262337
+Auer, D, & Ruedin, D (2019) Who Feels Disadvantaged? Reporting Discrimination in Surveys In Migrants and Expats: The Swiss Migration and Mobility Nexus (pp 221 242) Cham: Springer
+Auspurg, K, & Hinz, T (2014) Factorial survey experiments (Vol 175) Sage Publications
+Auspurg, K, Schneck, A, & Hinz, T (2019) Closed doors everywhere? A meta analysis of field experiments on
+ethnic discrimination in rental housing markets Journal of Ethnic and Migration Studies, 45(1), 95 114 Baert, S (2018) Hiring Discrimination: An Overview of (Almost) All Correspondence Experiments Since 2005,
+in Gaddis, M, Audit Studies: Behind the Scenes with Theory, Method, and Nuance Cham, Switzerland:
+Springer International Publishing, pp 6377
+Baldassarri, D, & Abascal, M (2017) Field experiments across the social sciences Annual Review of Sociology,
+43, 41 73
+Baron, J N, & Bielby, W T (1980) Bringing the firms back in: Stratification, segmentation, and the organisation of work American Sociological Review, 737 765
+Barreto, M, & Ellemers, N (2015) Detecting and experiencing prejudice: New answers to old questions Advances in experimental social psychology, 52, 139 219
+ PI of the
+ European Social Survey (ESS) in Ireland and Director of Research at the School of Sociology (UCD)
+ Atzmüller, C, & Steiner, P M (2010) Experimental vignette studies in survey research Methodology: European
+ Journal of Research Methods for the Behavioural and Social Sciences, 6(3), 128138
+   Bansak, K, Hainmueller, J & Hangartner, D (2016) How Economic, Humanitarian, and Religious Concerns
+ Shape European Attitudes Toward Asylum Seekers Science 354:21722
+PART B   40
+
+
+Bartoš, V, Bauer, M, Chytilová, J, & Matějka, F (2016) Attention discrimination: Theory and field experiments with monitoring information acquisition American Economic Review, 106(6), 1437 75
+Benard, S, & Correll, S J (2010) Normative discrimination and the motherhood penalty Gender & Society, 24(5), 616 646
+Bertrand, M, and Mullainathan, S (2004) Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labour market discrimination American Economic Review, 94(4), 991 1013
+Blank, R M (2005) Tracing the economic impact of cumulative discrimination American Economic Review, 95(2), 99 103
+Bogardus Emory S (1947), ‘Measurement of Personal Group Relations’, Sociometry, 10, 4, 306311 Bonilla Silva, E (1997) Rethinking racism: Toward a structural interpretation American Sociological Review,
+465 480
+Bonnet, F, Lalé, E, Safi, M, & Wasmer, E (2016) Better residential than ethnic discrimination! Reconciling
+audit and interview findings in the Parisian housing market Urban Studies, 53(13), 2815 2833 Bonjour, S, & Cleton, L (2021) Gendered Migrations: A Gender Perspective on International Migration and
+Migration Politics In J Money & S P Lockhart (eds) Introduction to International Migration (pp 127 
+148) New York: Routledge
+Bourabain, D, & Verhaeghe, P P (2019) Could you help me, please? Intersectional field experiments on
+everyday discrimination in clothing stores Journal of Ethnic and Migration Studies, 45(11), 2026 2044 Bourabain, D, Verhaeghe, P P, & Stevens, P A (2020) School of choice or schools’ choice? Intersectional
+correspondence testing on ethnic and class discrimination in the enrolment procedure to Flemish
+kindergarten Race Ethnicity and Education, 1 21
+Brinton, M C, & Nee, V (Eds) (1998) The new institutionalism in sociology Russell Sage Foundation Bryant Davis, T, Adams, T, Alejandre, A, & Gray, A A (2017) The trauma lens of police violence against
+racial and ethnic minorities Journal of Social Issues, 73(4), 852 871
+Bunel, M, L’Horty, Y, & Petit, P (2016) Discrimination based on place of residence and access to employment
+Urban Studies, 53(2), 267 286
+Butler, D M, and Crabtree, C (2017) Moving beyond measurement: Adapting audit studies to test bias reducing
+interventions Journal of Experimental Political Science, 4(1), 57 67
+Carlsson, M, Eriksson, S (2017) Do attitudes expressed in surveys predict ethnic discrimination? Ethnic and
+Racial Studies, 40, 1739 1757
+Carlsson, M, & Rooth, D O (2012) Revealing taste based discrimination in hiring: a correspondence testing
+experiment with geographic variation Applied Economics Letters, 19(18), 1861 1864
+Carpusor, A G, and Loges, W E (2006) Rental Discrimination and Ethnicity in Names Journal of Applied
+Social Psychology, 36(4), 934 952
+Chavez, K, & Wingfield, A H (2018) Racializing gendered interactions In Handbook of the Sociology of Gender (pp 185 197) Springer, Cham
+Collins, S, Genova, F, Harrower, N, Hodson, S, Jones, S, Laaksonen, L,  & Wittenburg, P (2018) Turning FAIR into reality: Final report and action plan from the European Commission expert group on FAIR data
+Cooke, L P (2011) Gender class equality in political economies Routledge
+Creighton, M J, Fahey, É, & McGinnity, F (2022) Immigration, identity and anonymity: Intentionally masked intolerance in Ireland International Migration Review [available online pending assignment to an issue]
+Creighton, M J, & Jamal, A (2015) Does Islam play a role in anti immigrant sentiment? An experimental approach Social Science Research, 53, 89 103
+Darolia, R, Koedel, C, Martorell, P, Wilson, K, and Perez Arce, F (2015) Do Employers Prefer Workers who Attend For Profit Colleges? Evidence from a Field Experiment Journal of Policy Analysis and Management, 34(4), 881 903
+ Ceobanu, A M, & Escandell, X (2010) Comparative analyses of public attitudes toward immigrants and
+ immigration using multinational survey data: A review of theories and research Annual review of
+ sociology, 36, 309 328
+ Correll, J, Park, B, Judd, C M, & Wittenbrink, B (2002) The police officer's dilemma: using ethnicity to
+ disambiguate potentially threatening individuals Journal of personality and social psychology, 83(6), 1314
+ Crenshaw, K (1989) Demarginalizing the intersection of race and sex: A black feminist critique of
+ antidiscrimination doctrine, feminist theory and antiracist politics u Chi Legal f, 139
+ Crosby, F J, Iyer, A, & Sincharoen, S (2006) Understanding affirmative action Annual Review of Psychology,
+ 57, 585 611
+ Cuddy, A J, Fiske, S T, & Glick, P (2007) The BIAS map: behaviours from intergroup affect and stereotypes
+ Journal of personality and social psychology, 92(4), 631
+ Dasgupta, N, & Greenwald, A G (2001) On the malleability of automatic attitudes: combating automatic
+ prejudice with images of admired and disliked individuals Journal of personality and social psychology,
+PART B   41
+
+
+Dench S, Iphofen, R & Huws, U (2004) An EU Code of Ethics for Socio Economic Research The Institute for Employment Studies
+Di Stasio, V, Lancee, B, Veit, S, & Yemane, R (2021) Muslim by default or religious discrimination? Results from a cross national field experiment on hiring discrimination Journal of Ethnic and Migration Studies, 47(6), 1305 1326
+Di Stasio, V, & Larsen, E N (2020) The racialized and gendered workplace: applying an intersectional lens to a field experiment on hiring discrimination in five European labour markets Social Psychology Quarterly, 83(3), 229 250
+ESA (2020) European Sociological Association Statement of Ethical Practice
+Esses, V M (2021) Prejudice and discrimination toward immigrants Annual Review of Psychology, 72, 503 531
+ European Commission (2021) Ethics and data protection DG Research & Innovation RTD03001  Research
+Ethics and Integrity Sector B 1049 Brussels, Belgium
+Feldman, M E, and Weseley, A J (2013) Which name unlocks the door? The effect of tenant race/ethnicity on
+landlord response Journal of Applied Social Psychology, 43(S2), 416 425
+Fibbi, R, Ruedin, D, Stünzi, R, & Zschirnt, E (2021) Hiring discrimination on the basis of skin colour? A
+correspondence test in Switzerland Journal of Ethnic and Migration Studies, 1 21
+Flage, A (2018) Ethnic and gender discrimination in the rental housing market: Evidence from a meta analysis of
+correspondence tests, 20062017 Journal of Housing Economics, 41, 251 273
+Fleischmann, F (2022) Researching religion and migration 20 years after ‘9/11’: Taking stock and looking
+ahead Zeitschrift für Religion, Gesellschaft und Politik, 1 26
+FRA (2016): EU MIDIS II:Second European Union Minorities and Discrimination Survey Roma  Selected
+Findings
+Gaddis, S M (Ed) (2018) Audit studies: Behind the scenes with theory, method, and nuance (Vol 14) Cham:
+Springer
+Gereke, J, Schaub, M, & Baldassarri, D (2020) Gendered discrimination against immigrants: experimental evidence Frontiers in Sociology, 5, 59
+Golash Boza, T (2016) A critical and comprehensive sociological theory of race and racism Sociology of Race and Ethnicity, 2(2), 129 141
+Hardy III, J H, Tey, K S, Cyrus Lai, W, Martell, R F, Olstad, A, & Uhlmann, E L (2022) Bias in context: Small biases in hiring evaluations have big consequences Journal of Management, 48(3), 657 692 Harnois, C E, & Ifatunji, M (2011) Gendered measures, gendered models: toward an intersectional analysis of
+interpersonal racial discrimination Ethnic and Racial Studies, 34(6), 1006 1028
+Heath, A F, & Di Stasio, V (2019) Racial discrimination in Britain, 19692017: A meta‐analysis of field
+experiments on racial discrimination in the British labour market The British Journal of Sociology, 70(5),
+1774 1798
+Heath, A F, Rothon, C, & Kilpi, E (2008) The second generation in Western Europe: Education,
+unemployment, and occupational attainment Annual Review of Sociology, 34, 211 235
+Jacobs, D, Swyngedouw, M, Hangquinet, L et al (2009) The challenge of measuring immigrant origin and
+immigration related ethnicity in Europe Journal of International Migration and Integration, 10, 67 88
+ 81(5), 800
+ Del Fava, E, Cimentada, J, Perrotta, D, Grow, A, Rampazzo, F, Gil Clavel, S, & Zagheni, E (2021)
+ Differential impact of physical distancing strategies on social contacts relevant for the spread of SARS 
+ CoV 2: evidence from a cross national online survey, MarchApril 2020 BMJ open, 11(10), e050651
+ Di Stasio, V, & Lancee, B (2020) Understanding why employers discriminate, where and against whom: The
+ potential of cross national, factorial and multi group field experiments Research in Social Stratification
+ and Mobility, 65, 100463
+ Essien, I, Stelter, M, Kalbe, F, Koehler, A, Mangels, J, & Meliß, S (2017) The shooter bias: Replicating the
+ classic effect and introducing a novel paradigm Journal of Experimental Social Psychology, 70, 41 47
+ Gaston, S (2021) Historical racist violence and intergenerational harms: Accounts from descendants of lynching
+ victims The ANNALS of the American Academy of Political and Social Science, 694(1), 78 91
+ Hager, A, & Veit, S (2019) Attitudes toward asylum seekers: Evidence from Germany Public Opinion
+ Quarterly, 83(2), 412 422
+ Hainmueller, J, Hopkins, D J, & Yamamoto, T (2014) Causal inference in conjoint analysis: Understanding
+ multidimensional choices via stated preference experiments Political Analysis, 22(1), 1 30
+ Hainmueller, J, D Hangartner and T Yamamoto (2015) Validating vignette and conjoint survey experiments
+ against real world behaviour, Proceedings of the National Academy of Sciences of the United States of
+ America, 112, 8, 23952400
+ Johnston, D W, & Lordan, G (2016) Racial prejudice and labour market penalties during economic downturns
+ European Economic Review, 84, 57 75
+PART B   42
+
+
+Kanas, A, & Steinmetz, S (2021) Mind the gap: The role of family policies and the gender egalitarian climate in shaping gender and ethnic labour market inequalities in Europe Migration Studies
+Kmec, J A (2011) Are motherhood penalties and fatherhood bonuses warranted? Comparing pro work behaviours and conditions of mothers, fathers, and non parents Social Science Research, 40(2), 444 459
+Koopmans, R, Veit, S, & Yemane, R (2019) Taste or statistics? A correspondence study of ethnic, racial and religious labour market discrimination in Germany Ethnic and Racial Studies, 42(16), 233 252
+Khoudja, Y, & Fleischmann, F (2015) Ethnic differences in female labour force participation in the Netherlands: Adding gender role attitudes and religiosity to the explanation European Sociological Review, 31(1), 91  102
+ Kohli, M (2007) The institutionalisation of the life course: Looking back to look ahead Research in human
+ development, 4(3 4), 253 271
+ Kühn, K, Liebscher, D & Klose, A (2013) Expertise zu den rechtlichen Aspekten sozialwissenschaftlicher
+ Testing Verfahren im Rahmen der vom SVR geplanten Studie ‘Diskriminierung am Ausbildungsmarkt?’
+ Krzyzowski, L, & Nowicka, M (2021) European solidarity as boundary making: A conjoint analysis of attitudes
+ towards Islam in the context of the ‘refugee crisis’ Journal of Sociology, 57(2), 305 324
+ Lamont, M & Mizrachi, N (2012) Ordinary people doing extraordinary things: responses to stigmatisation in
+ comparative perspective Ethnic and Racial Studies, 35(3), 365 381
+ Lancee, B (2021) Ethnic discrimination in hiring: Comparing groups across contexts Results from a cross 
+ national field experiment Journal of Ethnic and Migration Studies, 47(6), 1181 1200
+ Lancee, B, Birkelund, G, Coenders, M, Di Stasio, V, Fernandez Reino, M, Heath, A, Koopmans, R, Larsen,
+ E, Polavieja, J, Ramos, M, Thijssen, L, Veit, S and Yemane, R (2021) The GEMM Study: A Cross 
+ National Harmonized Field Experiment on Hiring Discrimination DANS
+ Leeper, T J, Hobolt, S B, & Tilley, J (2020) Measuring subgroup preferences in conjoint experiments
+ Political Analysis, 28(2), 207 221
+Lenaerts, K, Ramioul, M, Nelson, K, Steinmetz, S, Esteve, A, Gábos, A, György Tóth, I, Besamusca, J, Articus, C, Münnich, R, & Shlomo, N (2021), Potential pathways for the future development and sustainability of the InGRID research infrastructure, Deliverable 79, Leuven, InGRID 2 project 730998  H2020
+Lippens, L, Vermeiren, S, & Baert, S (2021) The state of hiring discrimination: A meta analysis of (almost) all recent correspondence experiments (No 972) GLO Discussion Paper
+Maxwell, R (2015) Perceived discrimination across institutional fields: Racial minorities in the United Kingdom European Sociological Review, 31(3), 342 353
+McGinnity, F, & Gijsberts, M (2016) A threat in the air? Perceptions of group discrimination in the first years after migration: Comparing Polish Migrants in Germany, the Netherlands, the UK and Ireland Ethnicities, 16(2), 290 315
+Michel, S, & Mahon, R (2013) Child care policy at the crossroads: Gender and welfare state restructuring New York: Routledge
+Mikula, Š, & Montag, J (2022) Roma and Bureaucrats: A Field Experiment in the Czech Republic SSRN: 3805631
+Morton, R, & Tucker, J (2014) Experiments, Journals, and Ethics Journal of Experimental Political Science, 1(2), 99 103
+Nadal, K L, Griffin, K E, Wong, Y, Hamit, S, & Rasmus, M (2014) The impact of racial microaggressions on mental health: Counselling implications for clients of colour Journal of Counselling & Development, 92(1), 57 66
+Navarrete, C D, McDonald, M M, Molina, L E, & Sidanius, J (2010) Prejudice at the nexus of race and gender: an outgroup male target hypothesis Journal of Personality and Social Psychology, 98(6), 933
+Neumark, D, Burn, I, and Button, P (2019) Is it harder for older workers to find jobs? New and improved evidence from a field experiment Journal of Political Economy [Online First]
+Notten, N, Grunow, D, & Verbakel, E (2017) Social policies and families in stress: gender and educational differences in workfamily conflict from a European perspective Social Indicators Research, 132(3), 1281  1305
+O'Higgins, N, & Brüggemann, C (2014) The consequences of cumulative discrimination: How special schooling
+ Lewis, T T, Cogburn, C D, & Williams, D R (2015) Self reported experiences of discrimination and health:
+ scientific advances, ongoing controversies, and emerging issues Annual review of clinical psychology, 11,
+ 407 440
+ Maxwell, R (2019) Cosmopolitan immigration attitudes in large European cities: Contextual or compositional
+ effects? American Political Science Review, 113(2), 456 474
+ Mayda, A M (2006) Who is against immigration? A cross country investigation of individual attitudes toward
+ immigrants The review of Economics and Statistics, 88(3), 510 530
+ PART B   43
+
+
+Olsen, A L, Kyhse Andersen, J H, & Moynihan, D (2020) The unequal distribution of opportunity: A national audit study of bureaucratic discrimination in primary school access American Journal of Political Science
+Pedulla, D S (2018) How race and unemployment shape labour market opportunities: Additive, amplified, or muted effects? Social Forces, 96(4), 1477 1506
+Pedulla, D S (2014) The positive consequences of negative stereotypes: Race, sexual orientation, and the job application process Social Psychology Quarterly, 77(1), 75 94
+Pettigrew, T F (1998) Intergroup contact theory Annual Review of Psychology, 49(1), 65 85
+Pincus, F L (1996) Discrimination comes in many forms American Behavioural Scientist, 40(2), 186 94
+Quillian, L (2006) New approaches to understanding racial prejudice and discrimination Annual Review Sociology, 32, 299 328
+Quillian, L, & Midtbøen, A H (2021) Comparative perspectives on racial discrimination in hiring: the rise of field experiments Annual Review of Sociology, 47, 391 415
+Quillian, L, Heath, A, r, D, Midtbøen, A H, Fleischmann, F, & Hexel, O (2019) Do some countries discriminate more than others? Evidence from 97 field experiments of racial discrimination in hiring Sociological Science, 6, 467 496
+Reeskens, T, & Van der Meer, T (2019) The inevitable deservingness gap: A study into the insurmountable immigrant penalty in perceived welfare deservingness Journal of European Social Policy, 29(2), 166 181
+Reskin, B (2012) The race discrimination system Annual Review of Sociology, 38, 17 35
+Riek, B M, Mania, E W, & Gaertner, S L (2006) Intergroup threat and outgroup attitudes: A meta analytic
+review Personality and Social Psychology Review, 10(4), 336 353
+Scarborough, W J, Lambouths III, D L, & Holbrook, A L (2019) Support of workplace diversity policies: The role of race, gender, and beliefs about inequality Social Science Research, 79, 194 210
+Schaeffer, M (2019) Social mobility and perceived discrimination: adding an intergenerational perspective European Sociological Review, 35(1), 65 80
+Shiao, J, & Woody, A (2021) The Meaning of “Racism” Sociological Perspectives, 64(4), 495 517 Sidanius, J, & Pratto, F (2001) Social dominance: An intergroup theory of social hierarchy and oppression
+Cambridge University Press
+Simonovits et al (2021) “Back to “normal”: the short lived impact of an online NGO campaign of government
+discrimination in Hungary, Political Science Research and Methods, 1 9
+Small, M L, & r, D (2020) Sociological perspectives on racial discrimination Journal of Economic
+Perspectives, 34(2), 49 67
+Steinmann, J P (2019) The paradox of integration: why do higher educated new immigrants perceive more
+discrimination in Germany? Journal of Ethnic and Migration Studies, 45(9), 1377 1400
+Stephan, W G, & Stephan, C W (1996) Predicting prejudice International Journal of Intercultural Relations,
+20(3 4), 409 426
+Stolzenberg, L, D’Alessio, S J, & Eitle, D (2013) Race and cumulative discrimination in the prosecution of
+criminal defendants Race and Justice, 3(4), 275 299
+Storm, I, Sobolewska, M, & Ford, R (2017) Is ethnic prejudice declining in Britain? Change in social distance
+attitudes among ethnic majority and minority Britons The British Journal of Sociology, 68(3), 410 434 PART B   44
+ influences employment and wages of Roma in the Czech Republic European Educational Research
+ Journal, 13(3), 282 294
+ r, D (2007) The use of field experiments for studies of employment discrimination: Contributions, critiques,
+ and directions for the future The Annals of the American Academy of Political and Social Science, 609(1),
+ 104 133
+ r, D, Western, B, and Bonikowski, B (2009) Discrimination in a low wage labor market: A field
+ experiment American Sociological Review, 74(5), 777 799
+ Pecoraro, M, & Ruedin, D (2016) A foreigner who does not steal my job: The role of unemployment risk and
+ values in attitudes toward equal opportunities International Migration Review, 50(3), 628 666
+ Pinillos Franco, S, & Kawachi, I (2021) Do individuals’ attitudes toward immigrants affect their own health?
+ Analysis of 15 European countries European Journal of Public Health
+ Polavieja, J G (2016) Labour market competition, recession and anti immigrant sentiments in Europe:
+ occupational and environmental drivers of competitive threat Socio Economic Review, 14(3), 395 417
+ Powell, J A (2007) Structural racism: Building upon the insights of John Calmore NCL Rev, 86, 791
+ Purdie Vaughns, V, & Eibach, R P (2008) Intersectional invisibility: The distinctive advantages and
+ disadvantages of multiple subordinate group identities Sex Roles, 59(5), 377 391
+ Rodríguez García, D, Solana Solana, M, & Lubbers, M J (2016) Preference and prejudice: Does intermarriage
+ erode negative ethno racial attitudes between groups in Spain? Ethnicities, 16(4), 521 546
+ Rodriguez Menes, J and Rovira, M (2019) Assessing Discrimination in Correspondence Studies Sociological
+ Methods and Research, [Online First]
+
+
+Thijssen, L, Coenders, M, & Lancee, B (2021) Is there evidence for statistical discrimination against ethnic minorities in hiring? Evidence from a cross national field experiment Social Science Research, 93, 102482
+Thoits, P A (2010) Stress and health: Major findings and policy implications Journal of Health and Social Behaviour, 51(1_suppl), S41 S53
+Tomaskovic Devey, D, & Avent Holt, D (2017) Organisations and stratification: Processes, mechanisms, and institutional contexts Research in Social Stratification and Mobility, 47, 1 5
+Veit, S, & Thijsen, L (2021) Almost identical but still treated differently: hiring discrimination against foreign  born and domestic born minorities Journal of Ethnic and Migration Studies, 47(6), 1285 1304
+Verhaeghe, P P (2022) Correspondence Studies In Handbook of Labour, Human Resources and Population Economics (pp 1 19) Cham: Springer International Publishing
+Verhaeghe, P P, & De Coninck, D (2022) Rental discrimination, perceived threat and public attitudes towards immigration and refugees Ethnic and Racial Studies, 45(4), 1371 1393
+Yavorsky, J E, Qian, Y, & Sargent, A C (2021) The gendered pandemic: The implications of COVID‐19 for work and family Sociology Compass, 15(6), e12881
+Zapata Barrero, R, Caponio, T, & Scholten, P (2017) Theorising the ‘local turn in a multi level governance framework of analysis: A case study in immigrant policies International Review of Administrative Sciences, 83(2), 241 246
+Ziegert, J C, & Hanges, P J (2005) Employment discrimination: the role of implicit attitudes, motivation, and a climate for racial bias Journal of Applied Psychology, 90(3), 553
+Ziller, C (2014) Societal implications of antidiscrimination policy in Europe Research & Politics, 1(3), 2053168014559537
+Zschirnt, E, & Ruedin, D (2016) Ethnic discrimination in hiring decisions: a meta analysis of correspondence tests 19902015 Journal of Ethnic and Migration Studies, 42(7), 1115 1134
+Zschirnt, E (2019) Research Ethics in Correspondence Testing: An Update Research Ethics, 15(2), 121
+ Tolsma, J, Lubbers, M, & Coenders, M (2008) Ethnic competition and opposition to ethnic intermarriage in the
+ Netherlands: A multi level approach European Sociological Review, 24(2), 215 230
+ Van Heerden, S, & Ruedin, D (2019) How attitudes towards immigrants are shaped by residential context: The
+ role of ethnic diversity dynamics and immigrant visibility Urban Studies, 56(2), 317 334
+ Wang, S, Chen, X, Li, Y, Luu, C, Yan, R, & Madrisotti, F (2021) ‘I'm more afraid of racism than of the
+ virus!’: racism awareness and resistance among Chinese migrants and their descendants in France during
+ the Covid 19 pandemic European Societies, 23(sup1), S721 S742
+ Wilkinson, S (1998) Focus group methodology: a review International Journal of Social Research Methodology,
+ 1(3), 181 203
+ Zhang, B, Mildenberger, M, Howe, P D, Marlon, J, Rosenthal, S A, & Leiserowitz, A (2020) Quota
+ sampling using Facebook advertisements Political Science Research and Methods, 8(3), 558 564
+PART B   45

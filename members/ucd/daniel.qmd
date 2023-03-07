@@ -1,0 +1,35 @@
+---
+title: "Daniel Capistrano"
+subtitle: "Postdoc Researcher"
+image: daniel.jpg
+toc: false
+sortpos: 3
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: https://www.danielcapistrano.com
+    - icon: file-earmark-text
+      text: vitae
+      href: https://www.danielcapistrano.com/uploads/Capistrano_CV.pdf
+    - icon: person-badge
+      text: orcid
+      href: https://orcid.org/0000-0002-8157-5564
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=6Oz4fHAAAAAJ
+    - icon: mastodon
+      text: mastodon
+      href: https://sciences.social/@danielcapis
+---
+
+:::{#person-profile}
+
+I am a social scientist specialised in educational and social indicators. My research spreads across distinct fields such as comparative sociology, public policy, and social research methods.
+
+Before joining the UCD [Geary Institute for Public Policy](www.ucd.ie/geary), I  worked in the administration of the [European Social Survey](www.europeansocialsurvey.org) in Ireland and served as the coordinator for international statistics at the National Institute for Educational Research and Studies ([INEP](www.inep.gov.br)) in Brazil. I have also held research positions at the University of Bristol, University of Oxford, and University of Brasilia.
+
+:::
