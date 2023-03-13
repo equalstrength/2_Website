@@ -1,7 +1,7 @@
 ---
-title: "Postdoctoral Researcher - position Grade 7"
+title: "Postdoctoral Researcher"
 description: ""
-date: "2023-02-27"
+date: "2023-03-13"
 image: oxf.jpg
 categories:
   - Oxford
@@ -11,6 +11,15 @@ categories:
 
 **Institution**: University of Oxford, Centre on Migration, Policy and Society (COMPAS)   
 **Position**: Postdoc  
-**Deadline**: Opens soon  
+**Deadline**: 17 April 2023  
 
-Details about this position will be published soon.
+Do you have a background in the social sciences and an interest in the topic of ethnic discrimination? Are you enthusiastic about the opportunity to be part of an international team and develop research based on cutting-edge experimental methods? Consider applying for an exciting postdoctoral research opportunity at the University of Oxford.
+
+We are looking for an experienced quantitative social scientist with theoretical expertise on prejudice, ethnic discrimination, and immigrant integration.  You will have a high degree of independence and responsibility, whilst being part of the University of Oxford's Centre on Migration, Policy and Society (COMPAS). You will become a member of the coordinating team of the international EQUALSTRENGTH consortium, which aims to investigate cumulative and structural forms of discrimination using experimental methods. You will work in close collaboration with Dr. Mariña Fernández Reino, local project coordinator and Senior Researcher at COMPAS, and the other consortium members.
+
+Requests for flexible working will always be taken into consideration and will be accommodated as far as possible.
+
+The deadline for applications is **12 noon on 17th April 2023**.
+Interviews are expected to take place in the week commencing 8th of May.
+
+[More info / Apply here](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=163167)
