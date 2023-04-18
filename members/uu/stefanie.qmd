@@ -1,0 +1,29 @@
+---
+title: "Stefanie Sprong"
+subtitle: "Postdoc Researcher"
+image: stefanie.jpg
+toc: false
+sortpos: 2
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: "https://www.researchgate.net/profile/Stefanie-Sprong"
+    - icon: person-badge
+      text: orcid
+      href: "https://orcid.org/0000-0002-7261-3207"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?user=5tD4RvcAAAAJ&hl=en"
+    - icon: twitter
+      text: twitter
+      href: "https://twitter.com/StefanieSprong"
+
+---
+
+:::{#person-profile}
+Stefanie is a postdoctoral researcher at the Department of Interdisciplinary Social Science of Utrecht University. Her research covers a variety of topics related to social inequality, migration and integration, and education. Before joining Utrecht University, she was a postdoctoral research fellow at the Economic and Social Research Institute. She obtained her PhD from the Department of Sociology at Trinity College Dublin. 
+:::
