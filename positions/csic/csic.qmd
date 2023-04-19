@@ -6,7 +6,7 @@ image: csic.png
 categories:
   - Madrid
   - Postdoc
-  - Open
+  - Closed
 ---
 
 **Institution**: Instituto de Economía, Geografía y Demografía (Spanish

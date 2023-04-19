@@ -6,7 +6,7 @@ image: dezim.jpg
 categories:
   - Berlin
   - Postdoc
-  - Open
+  - Closed
 ---
 
 **Institution**: The German Center for Integration and Migration Research (DeZIM)  

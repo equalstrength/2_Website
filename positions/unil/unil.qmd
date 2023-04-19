@@ -6,7 +6,7 @@ image: unil.png
 categories:
   - Lausanne
   - Postdoc
-  - Open
+  - Closed
 ---
 
 **Institution**: University of Lausanne  
