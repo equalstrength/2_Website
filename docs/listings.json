@@ -21,10 +21,6 @@
     ]
   },
   {
-    "listing": "/publications.html",
-    "items": []
-  },
-  {
     "listing": "/opportunities.html",
     "items": [
       "/positions/oxf/oxf.html",
@@ -36,5 +32,9 @@
       "/positions/uva/uvaphd.html",
       "/positions/ucd/ucdpd.html"
     ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
   }
 ]

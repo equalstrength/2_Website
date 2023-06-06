@@ -6,7 +6,7 @@ image: oxf.jpg
 categories:
   - Oxford
   - Postdoc
-  - Open
+  - Closed
 ---
 
 **Institution**: University of Oxford, Centre on Migration, Policy and Society (COMPAS)   

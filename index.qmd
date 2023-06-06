@@ -11,9 +11,3 @@ from: markdown+emoji
 
 ![Image: Wordcloud of the EqualStrength project proposal ([code here](img/eqs_cloud.r)) ](img/eqs_cloud.svg){fig-alt="Illustration showing the most frequent terms from the EqualStrength project and images of doors superimposed"}
 
-
-::: {.callout-note}
-## We are hiring!
-
-EqualStrength is currently hiring researchers in several locations in Europe. Check [here](opportunities.html) more information about open positions and how to apply.
-:::
