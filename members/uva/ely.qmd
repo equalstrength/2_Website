@@ -1,0 +1,35 @@
+---
+title: "Ely Strömberg"
+subtitle: "PhD Candidate"
+image: ely.jpg
+toc: false
+sortpos: 2
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: "https://elystromberg.github.io/About/"
+    - icon: file-earmark-text
+      text: vitae
+      href: "https://elystromberg.github.io/About/CV/"
+    - icon: person-badge
+      text: orcid
+      href: "https://orcid.org/0009-0007-9700-3185"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.se/citations?user=UC3OFFIAAAAJ&hl=en"
+    - icon: twitter
+      text: twitter
+      href: "https://twitter.com/ElyStromberg"
+    - icon: mastodon
+      text: mastodon
+      href: "https://mastodon.social/@elystromberg"
+---
+
+:::{#person-profile}
+Ely Strömberg is a PhD candidate at the department of Sociology at the University of Amsterdam, and the Interuniversity Center for Social Science Theory and Methodology (ICS) in the Netherlands. Previously they have worked as a research assistant at the Swedish institute for social research, in a project on the role of recrutiment for gender differences in Swedish universities.
+
+:::
