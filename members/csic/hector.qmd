@@ -1,0 +1,25 @@
+---
+title: "Héctor Cebolla Boado"
+subtitle: "Country leader"
+image: hector.jpg
+toc: false
+sortpos: 1
+about:
+  id: person-profile
+  template: trestles
+  image-width: 180px
+  links:
+    - icon: link
+      text: website
+      href: http://iegd.csic.es/es/personal/hector.cebolla
+    - icon: file-earmark-text
+      text: vitae
+      href: https://sites.google.com/site/hectorcebolla/curriculum-vitae?authuser=0
+
+---
+
+:::{#person-profile}
+
+Hector Cebolla-Boado is a tenured scientist at the Institute for Economics Geography and Demography of the National Research Council (CSIC) in Madrid, Spain. He received his PhD in Sociology from Oxford University in 2008 and has since worked as a lecturer at Pompeu Fabra University and UNED, as well as a visiting professor at the University of Bielefeld, Carlos 3, and Autónoma de Madrid. He has also served as General Director of Social Strategy at the Madrid City Council. Cebolla-Boado's research aims to explain the transmission of intergenerational disadvantage resulting from immigration and social background. While his primary interest lies in studying child development patterns, his research has also explored topics such as labor and educational integration, as well as differences in health between immigrants and natives.
+
+:::
